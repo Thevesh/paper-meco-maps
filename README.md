@@ -25,8 +25,8 @@
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:thevesh/paper-malaysian-election-corpus-maps.git
-cd paper-malaysian-election-corpus-maps
+git clone git@github.com:thevesh/paper-meco-maps.git
+cd paper-meco-maps
 ```
 
 2. Create and activate a virtual environment:
