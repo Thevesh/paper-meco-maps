@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.11+-pink.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-CC0_1.0-blue.svg)](LICENSE)
 
-# Malaysian Election Corpus (MECo)
+# Malaysian Election Corpus (MECo): Election Boundaries since 1955
 
 ## Repository Structure
 
