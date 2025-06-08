@@ -3,7 +3,7 @@
 | Unit | Year | Parlimen GeoJSON | DUN GeoJSON | Validation | Parlimen Cartogram (Equal) | Parlimen Cartogram (Electorate) | DUN Cartogram (Equal) | DUN Cartogram (Electorate) |
 |------|------|-----------------|------------|------------|--------------------------|-----------------------------|---------------------|-------------------------|
 | Peninsular | 1955 | ✅ | n/a | ✅ | ❌ | ❌ | - | - |
-| Peninsular | 1959 | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Peninsular | 1959 | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Peninsular | 1964 | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Peninsular | 1974 | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Peninsular | 1984 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
