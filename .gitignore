@@ -7,6 +7,7 @@ src-data/scrape/*
 src-data-external*
 api*
 aws/*
+*local*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
