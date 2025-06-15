@@ -17,6 +17,17 @@ __pycache__/
 
 # confidential data
 
+# R 
+renv/library/
+renv/staging/
+renv/local/
+renv/cellar/
+renv/lock/
+renv/python/
+renv/sandbox/
+.Rprofile
+
+
 # LaTeX generation files
 *eps-converted-to*
 *.aux
