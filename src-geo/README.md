@@ -28,6 +28,7 @@
 - `peninsular_1959_dun`: Same ordering issue as above, with same solution.
 - `peninsular_1959_dun`: There are 2 seats where there is inconsistency between the results data and the map in the same report. We choose the option which generates consistency with future names, to avoid requiring a separate map for 1964 purely due to renaming. Cases: We write Kangar Town as Bandar Kangar, and Kelawai as Kelawei. In both cases, the name chosen is consistent with the election reports for 1964 and 1969.
 - `peninsular_2003_parlimen`: This is the first map where P.125 Putrajaya appears. However, P.125 Putrajaya was actually carved out of Dengkil in 2001. In this collection, it is presented together with the 2003 redelineation of Peninsular Malaysia, as there was no other election between 2001 and 2003 that would create a practical need to have two versions of the map.
+- `sabah_2017_parlimen`: P.188 is named Silam as per the time of the delimitation, but this was changed to Lahad Datu prior to the Sabah state election in 2020. The election-specific maps need to reflect this.
 
 ## To Check:
 - `peninsular_1984_dun`: Sungai Pelek or Sungai Pelik (as discussed in Telegram)
