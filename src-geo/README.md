@@ -25,7 +25,7 @@
 | Sarawak | 2015 | ✅ | ✅ | ✅ |
 
 The base delimitations are the 'single source of truth' from which the following are programatically generated:
-- Election-specific maps, i.e. a single map with the right delimitation (for state elections) or combination of delimiations (for federal elections)
+- Election-specific maps, i.e. a single map with the right delimitation (for state elections) or combination of delimitations (for federal elections).
 - Equally-weighted Dorling cartograms, which accord the same area to every seat on a map; useful for visualising the composition of Parliament / DUN in a way that still retains its spatial link.
 - Electorate-weighted Dorling cartograms, which accord area in proportion to the number of registered voters; useful for visualising continuous or categorical outcome variables (voter turnout, rejected votes, majorities, winning party) in a manner that correctly visualises its true incidence (land doesn't vote, people do).
 
