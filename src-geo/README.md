@@ -1,26 +1,32 @@
-# Progress Tracker
+# Coverage (Delimitations)
 
-| Unit | Year | Parlimen GeoJSON | DUN GeoJSON | Validation | Parlimen Cartogram (Equal) | Parlimen Cartogram (Electorate) | DUN Cartogram (Equal) | DUN Cartogram (Electorate) |
-|------|------|-----------------|------------|------------|--------------------------|-----------------------------|---------------------|-------------------------|
-| Peninsular | 1955 | ✅ | n/a | ✅ | ❌ | ❌ | - | - |
-| Peninsular | 1959 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Peninsular | 1974 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Peninsular | 1984 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Peninsular | 1994 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Peninsular | 2003 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Peninsular | 2018 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sabah | 1966 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sabah | 1974 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sabah | 1984 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sabah | 1994 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sabah | 2003 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sabah | 2019 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sarawak | 1968 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sarawak | 1977 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sarawak | 1987 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sarawak | 1996 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Sarawak | 2005 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Sarawak | 2015 | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Unit | Year | Parlimen GeoJSON | DUN GeoJSON | Validation |
+|------|------|-----------------|------------|------------|
+| Peninsular | 1955 | ✅ | n/a | ✅ |
+| Peninsular | 1959 | ✅ | ✅ | ✅ |
+| Peninsular | 1974 | ✅ | ✅ | ✅ |
+| Peninsular | 1984 | ✅ | ✅ | ✅ |
+| Peninsular | 1994 | ✅ | ✅ | ✅ |
+| Peninsular | 2003 | ❌ | ❌ | ❌ |
+| Peninsular | 2018 | ✅ | ✅ | ✅ |
+| Sabah | 1966 | ✅ | ✅ | ✅ |
+| Sabah | 1974 | ✅ | ✅ | ✅ |
+| Sabah | 1984 | ✅ | ✅ | ✅ |
+| Sabah | 1994 | ✅ | ✅ | ✅ |
+| Sabah | 2003 | ✅ | ✅ | ✅ |
+| Sabah | 2019 | ✅ | ✅ | ✅ |
+| Sarawak | 1968 | ✅ | ✅ | ✅ |
+| Sarawak | 1977 | ✅ | ✅ | ✅ |
+| Sarawak | 1987 | ✅ | ✅ | ✅ |
+| Sarawak | 1996 | ✅ | ✅ | ✅ |
+| Sarawak | 2005 | ❌ | ❌ | ❌ |
+| Sarawak | 2015 | ✅ | ✅ | ✅ |
+|
+
+The base delimitations are the 'single source of truth' from which the following are programatically generated:
+- Election-specific maps, i.e. a single map with the right delimitation (for state elections) or combination of delimiations (for federal elections)
+- Equally-weighted Dorling cartograms, which accord the same area to every seat on a map; useful for visualising the composition of Parliament / DUN in a way that still retains its spatial link.
+- Electorate-weighted Dorling cartograms, which accord area in proportion to the number of registered voters; useful for visualising continuous or categorical outcome variables (voter turnout, rejected votes, majorities, winning party) in a manner that correctly visualises its true incidence (land doesn't vote, people do).
 
 
 ## Methodology Notes
