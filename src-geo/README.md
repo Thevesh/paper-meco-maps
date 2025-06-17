@@ -1,5 +1,7 @@
 # Coverage (Delimitations)
 
+*Note: Validation means a perfect tally against the [independently compiled results](https://github.com/Thevesh/paper-meco-results/commits/main/).*
+
 | Unit | Year | Parlimen GeoJSON | DUN GeoJSON | Validation |
 |------|------|-----------------|------------|------------|
 | Peninsular | 1955 | ✅ | n/a | ✅ |
