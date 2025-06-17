@@ -21,7 +21,6 @@
 | Sarawak | 1996 | ✅ | ✅ | ✅ |
 | Sarawak | 2005 | ❌ | ❌ | ❌ |
 | Sarawak | 2015 | ✅ | ✅ | ✅ |
-|
 
 The base delimitations are the 'single source of truth' from which the following are programatically generated:
 - Election-specific maps, i.e. a single map with the right delimitation (for state elections) or combination of delimiations (for federal elections)
