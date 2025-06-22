@@ -21,7 +21,7 @@
 | Sarawak | 1977 | ✅ | ✅ | ✅ | ❌ |
 | Sarawak | 1987 | ✅ | ✅ | ✅ | ❌ |
 | Sarawak | 1996 | ✅ | ✅ | ✅ | ❌ |
-| Sarawak | 2005 | ❌ | ❌ | ❌ | ✅ |
+| Sarawak | 2005 | ✅ | ✅ | ✅ | ✅ |
 | Sarawak | 2015 | ✅ | ✅ | ✅ | ✅ |
 
 The base delimitations are the 'single source of truth' from which the following are programatically generated:
