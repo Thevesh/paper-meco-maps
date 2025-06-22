@@ -9,8 +9,8 @@
 | Peninsular | 1974 | ✅ | ✅ | ✅ | ❌ |
 | Peninsular | 1984 | ✅ | ✅ | ✅ | ❌ |
 | Peninsular | 1994 | ✅ | ✅ | ✅ | ❌ |
-| Peninsular | 2003 | ❌ | ❌ | ❌ | ✅ |
-| Peninsular | 2018 | ✅ | ✅ | ✅ | ❌ |
+| Peninsular | 2003 | ✅ | ✅ | ✅ | ✅ |
+| Peninsular | 2018 | ✅ | ✅ | ✅ | ✅ |
 | Sabah | 1966 | ✅ | ✅ | ✅ | ✅ |
 | Sabah | 1974 | ✅ | ✅ | ✅ | ❌ |
 | Sabah | 1984 | ✅ | ✅ | ✅ | ❌ |
@@ -22,7 +22,7 @@
 | Sarawak | 1987 | ✅ | ✅ | ✅ | ❌ |
 | Sarawak | 1996 | ✅ | ✅ | ✅ | ❌ |
 | Sarawak | 2005 | ❌ | ❌ | ❌ | ✅ |
-| Sarawak | 2015 | ✅ | ✅ | ✅ | ❌ |
+| Sarawak | 2015 | ✅ | ✅ | ✅ | ✅ |
 
 The base delimitations are the 'single source of truth' from which the following are programatically generated:
 - Election-specific maps, i.e. a single map with the right delimitation (for state elections) or combination of delimitations (for federal elections).
