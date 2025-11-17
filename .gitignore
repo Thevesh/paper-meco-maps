@@ -5,6 +5,8 @@ constants.py
 cron.py
 src-data/scrape/*
 src-data-external*
+src-geo/lineage/*
+local*
 api*
 aws/*
 *local*
