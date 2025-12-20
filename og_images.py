@@ -15,12 +15,14 @@ def calculate_zoom(lon_span, lat_span):
     return min(max(zoom, 0), 20)
 
 
-def make_image(row,crs=4326):
+def make_image(row, crs=4326):
     done = g(f"api/*.png")
-    done = [x.replace('api/', '').replace('.png', '') for x in done]
+    done = [x.replace("api/", "").replace(".png", "") for x in done]
 
     feature_gdf = gpd.GeoDataFrame([row], crs=crs)
-    slug = generate_slug(feature_gdf.parlimen.iloc[0]) + '-' + generate_slug(feature_gdf.state.iloc[0])
+    slug = (
+        generate_slug(feature_gdf.parlimen.iloc[0]) + "-" + generate_slug(feature_gdf.state.iloc[0])
+    )
     if slug in done:
         return None
     print(slug)
@@ -60,7 +62,7 @@ def make_image(row,crs=4326):
     return slug, center, zoom
 
 
-def upload_data(file_pattern="candidates/*",extension='.png'):
+def upload_data(file_pattern="candidates/*", extension=".png"):
     """Upload data files to S3."""
     files = g(f"api/{file_pattern}{extension}")
     files_to_upload = sorted([(f, f.replace(f"api/", "")) for f in files])
@@ -71,21 +73,22 @@ def upload_data(file_pattern="candidates/*",extension='.png'):
         max_workers=120,
     )
 
+
 if __name__ == "__main__":
 
     # make images
-    files = ['peninsular_2018_parlimen','sabah_2019_parlimen','sarawak_2015_parlimen']
-    res = pd.DataFrame(columns=['slug','center_lat','center_lon','zoom'])
+    files = ["peninsular_2018_parlimen", "sabah_2019_parlimen", "sarawak_2015_parlimen"]
+    res = pd.DataFrame(columns=["slug", "center_lat", "center_lon", "zoom"])
 
     for file in files:
         gf = gpd.read_file(f"src-geo/delimitations/{file}.geojson")
         gf = gf.to_crs(epsg=4326)
-        df = pd.DataFrame(columns=['slug','center_lat','center_lon','zoom'])
+        df = pd.DataFrame(columns=["slug", "center_lat", "center_lon", "zoom"])
         for idx, row in gf.iterrows():
             slug, center, zoom = make_image(row, gf.crs)
-            df.loc[len(df)] = [slug, center['lat'].round(6), center['lon'].round(6), zoom]
+            df.loc[len(df)] = [slug, center["lat"].round(6), center["lon"].round(6), zoom]
 
         # upload images
         # upload_data(file_pattern='og-image/*',extension='.png')
         res = pd.concat([res, df])
-    res.to_csv('temp.csv',index=False)
+    res.to_csv("temp.csv", index=False)

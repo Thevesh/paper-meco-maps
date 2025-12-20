@@ -5,25 +5,22 @@ from glob import glob as g
 from shapely.geometry import shape
 from shapely.errors import TopologicalError
 
-MAP_STATUS_EMOJI = {
-    0: "✅ Valid",
-    1: "❌ Invalid",
-    -1: "❓ Error"
-}
+MAP_STATUS_EMOJI = {0: "✅ Valid", 1: "❌ Invalid", -1: "❓ Error"}
+
 
 def check_geometry_validity(file_path):
     """Check if all geometries in a GeoJSON file are valid."""
     try:
-        with open(file_path, 'r', encoding='utf-8') as f:
+        with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
     except json.JSONDecodeError as e:
         print(f"Invalid JSON in {file_path}: {e}")
         return -1
 
     invalid_features = []
-    for i, feature in enumerate(data.get('features', [])):
+    for i, feature in enumerate(data.get("features", [])):
         try:
-            geom = shape(feature['geometry'])
+            geom = shape(feature["geometry"])
             if not geom.is_valid:
                 invalid_features.append((i, "Geometry not valid"))
         except (ValueError, TopologicalError) as e:
@@ -37,6 +34,7 @@ def check_geometry_validity(file_path):
 
     return 0
 
+
 # Usage
 if __name__ == "__main__":
     geojsons = sorted(g("src-geo/delimitations/*.geojson"))
@@ -44,4 +42,4 @@ if __name__ == "__main__":
     for geojson in geojsons:
         RESULT = check_geometry_validity(geojson)
         print(f"{MAP_STATUS_EMOJI[RESULT]}: {geojson.replace('src-geo/delimitations/', '')}")
-    print('')
+    print("")

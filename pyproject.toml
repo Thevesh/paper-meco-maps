@@ -4,4 +4,15 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "boto3>=1.42.14",
+    "dotenv>=0.9.9",
+    "duckdb>=1.4.3",
+    "geopandas>=1.1.1",
+    "ipykernel>=7.1.0",
+    "mapbox>=0.18.1",
+    "matplotlib>=3.10.7",
+    "pandas>=2.3.3",
+    "plotly>=6.5.0",
+    "pyarrow>=22.0.0",
+]
