@@ -3,9 +3,9 @@ playground*
 pdf*
 constants.py
 cron.py
-src-data/scrape/*
-src-data-external*
-src-geo/lineage/*
+data/checklist.md
+data/lineage/*
+data/state.geojson
 local*
 api*
 aws/*
