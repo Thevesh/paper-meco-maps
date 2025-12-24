@@ -3,8 +3,9 @@
 import os
 import re
 import time
-import boto3
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from typing import List
+import boto3
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -95,3 +96,43 @@ def upload_s3_bulk(bucket_name, files_to_upload, max_workers=50):
         if not success
     ]
     return failed_uploads
+
+
+def get_states(my: int = 0, codes: int = 0) -> List[str]:
+    """Get list of Malaysian states.
+
+    Args:
+        my (int): Whether to include Malaysia (country)
+        code (int): Whether to return full name (0), text code (1), or integer code (2)
+    Returns:
+        List[str]: List of states as full name, text codes, or integer codes
+    """
+    data = {
+        "Malaysia": ["MYS", 0],
+        "Perlis": ["PLS", 1],
+        "Kedah": ["KDH", 2],
+        "Kelantan": ["KTN", 3],
+        "Terengganu": ["TRG", 4],
+        "Pulau Pinang": ["PNG", 5],
+        "Perak": ["PRK", 6],
+        "Pahang": ["PHG", 7],
+        "Selangor": ["SGR", 8],
+        "W.P. Kuala Lumpur": ["KUL", 9],
+        "W.P. Putrajaya": ["PJY", 10],
+        "Negeri Sembilan": ["NSN", 11],
+        "Melaka": ["MLK", 12],
+        "Johor": ["JHR", 13],
+        "W.P. Labuan": ["LBN", 14],
+        "Sabah": ["SBH", 15],
+        "Sarawak": ["SWK", 16],
+    }
+    state_names = list(data.keys())
+    state_codes = [data[x][0] for x in state_names]
+    state_order = [data[x][1] for x in state_names]
+    if codes == 0:
+        return state_names[1 - my :]
+    if codes == 1:
+        return state_codes[1 - my :]
+    if codes == 2:
+        return state_order[1 - my :]
+    raise ValueError("Invalid code type")

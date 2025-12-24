@@ -1,7 +1,14 @@
-"""Validate GeoJSON geometry files for topological errors and invalid geometries."""
+"""
+Validate all hand-produced GeoJSON delimitation to ensure:
+- No topologial errors
+- No invalid geometries
+
+Then convert all GeoJSON into GeoParquet
+"""
 
 import json
 from glob import glob as g
+import geopandas as gpd
 from shapely.geometry import shape
 from shapely.errors import TopologicalError
 
@@ -35,11 +42,8 @@ def check_geometry_validity(file_path):
     return 0
 
 
-# Usage
 if __name__ == "__main__":
-    geojsons = sorted(g("src-geo/delimitations/*.geojson"))
-    print("\nChecking geometry validity:\n")
-    for geojson in geojsons:
-        RESULT = check_geometry_validity(geojson)
-        print(f"{MAP_STATUS_EMOJI[RESULT]}: {geojson.replace('src-geo/delimitations/', '')}")
-    print("")
+    files = sorted(g("data/geojson/delimitations/*.geojson"))
+    for file in files:
+        gf = gpd.read_file(file)
+        gf.to_parquet(file.replace(".geojson", ".parquet").replace("geojson/", "geoparquet/"))
