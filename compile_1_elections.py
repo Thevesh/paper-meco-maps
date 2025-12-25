@@ -31,6 +31,7 @@ def compile():
                 gdf["code_parlimen"] = [f"P.{x:03d}" for x in range(1, len(gdf) + 1)]
                 gdf["parlimen"] = gdf.code_parlimen + gdf.parlimen.str[5:]
             else:
+                gdf = gdf[gdf.state == s]
                 if state_iso3 == "SWK" and election == "SE-02":
                     map_new_code = dict(
                         zip(
@@ -49,7 +50,9 @@ def compile():
                     )
                     gdf["code_parlimen"] = gdf.code_parlimen.map(map_new_code)
                     gdf["parlimen"] = gdf.code_parlimen + gdf.parlimen.str[5:]
-            gdf.to_parquet(path_elections + f"{state_iso3}_{election}.parquet")
+            gdf.to_parquet(
+                path_elections + f"{state_iso3}_{election}.parquet", index=False, compression="gzip"
+            )
 
         print(f"Wrote {len(tf)} files for {s}")
 
