@@ -17,7 +17,7 @@ Notes:
     - Skip regeneration if image for a given area already exists in the output folder.
 """
 
-from glob import glob as g
+from glob import glob
 from math import log2
 import geopandas as gpd
 import pandas as pd
@@ -42,7 +42,7 @@ def make_image(feature_row, crs=4326):
     checking if the image already exists. Returns tuple
     (slug, center, zoom) or None if already done.
     """
-    done = g("api/*.png")
+    done = glob("api/*.png")
     done = [x.replace("api/", "").replace(".png", "") for x in done]
 
     feature_gdf = gpd.GeoDataFrame([feature_row], crs=crs)
@@ -92,7 +92,7 @@ def upload_data(file_pattern="candidates/*", extension=".png"):
         file_pattern (str): Glob pattern inside the api directory.
         extension (str): File extension to match.
     """
-    files = g(f"api/{file_pattern}{extension}")
+    files = glob(f"api/{file_pattern}{extension}")
     files_to_upload = sorted([(f, f.replace("api/", "")) for f in files])
 
     upload_s3_bulk(

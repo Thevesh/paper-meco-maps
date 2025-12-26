@@ -1,15 +1,33 @@
+"""
+Compile election-specific geospatial data for each election and state, using canonical delimitations as the source.
+
+This module reads the crosswalk in data/delims_to_elections.csv to map delimitation files to each election event
+(both parliamentary and state elections). It then generates a set of geoparquet files for each (election, state)
+combination, including proper re-numbering of codes as required by the election.
+
+Dependencies:
+- data/delims_to_elections.csv: Maps each election and state to the relevant delimitations files.
+- data/geoparquet/delimitations/: Directory that contains canonical delimitation GeoParquet files.
+- data/geoparquet/elections/: Output will be written to this directory.
+"""
+
 import pandas as pd
 import geopandas as gpd
 import duckdb
 
 from helper import get_states
 
-path_delims = "data/geoparquet/delimitations/"
-path_elections = "data/geoparquet/elections/"
+PATH_DELIMS = "data/geoparquet/delimitations/"
+PATH_ELECTIONS = "data/geoparquet/elections/"
 map_state_iso3 = dict(zip(get_states(my=1), get_states(my=1, codes=1)))
 
 
-def compile():
+def compile_elections():
+    """
+    Compile election-specific geospatial data from delimitations.
+    Dependencies:
+    - data/delims_to_elections.csv
+    """
     df = pd.read_csv("data/delims_to_elections.csv")
     for s in df.state.unique():
         tf = df[df.state == s].copy()
@@ -23,9 +41,9 @@ def compile():
                 f"sarawak_{tf.sarawak.iloc[i]}_{area_type}.parquet",
             ]
             files = [f for f in files if "_0_" not in f]
-            gdf = gpd.read_parquet(path_delims + files[0])
+            gdf = gpd.read_parquet(PATH_DELIMS + files[0])
             for f in files[1:]:
-                gtf = gpd.read_parquet(path_delims + f)
+                gtf = gpd.read_parquet(PATH_DELIMS + f)
                 gdf = pd.concat([gdf, gtf], axis=0, ignore_index=True)
             if "GE" in election:
                 gdf["code_parlimen"] = [f"P.{x:03d}" for x in range(1, len(gdf) + 1)]
@@ -51,14 +69,17 @@ def compile():
                     gdf["code_parlimen"] = gdf.code_parlimen.map(map_new_code)
                     gdf["parlimen"] = gdf.code_parlimen + gdf.parlimen.str[5:]
             gdf.to_parquet(
-                path_elections + f"{state_iso3}_{election}.parquet", index=False, compression="gzip"
+                PATH_ELECTIONS + f"{state_iso3}_{election}.parquet", index=False, compression="gzip"
             )
 
         print(f"Wrote {len(tf)} files for {s}")
 
 
-def validate():
-    QUERY = """
+def validate_elections():
+    """
+    Validate that geospatial data perfectly matches peer-reviewed election results.
+    """
+    sql = """
         SELECT 
             state, 
             parlimen AS seat,
@@ -67,8 +88,8 @@ def validate():
         WHERE parlimen IS NOT NULL
     """
 
-    df1 = duckdb.sql(QUERY).df()
-    df2 = duckdb.sql(QUERY.replace("parlimen", "dun").replace("MYS", "")).df()
+    df1 = duckdb.sql(sql).df()
+    df2 = duckdb.sql(sql.replace("parlimen", "dun").replace("MYS", "")).df()
 
     df = pd.concat([df1, df2], axis=0, ignore_index=True)
     df["geo"] = 1
@@ -84,7 +105,7 @@ def validate():
 
 if __name__ == "__main__":
     print("\n--------- Compiling election-specific files ----------\n")
-    compile()
+    compile_elections()
     print("\n--------- Validating against election results ----------\n")
-    validate()
+    validate_elections()
     print("\n--------- ✨✨✨ DONE ✨✨✨ ----------\n")
