@@ -6,7 +6,6 @@ cron.py
 data/checklist.md
 data/lineage/*
 data/state.geojson
-local*
 api*
 aws/*
 *local*
