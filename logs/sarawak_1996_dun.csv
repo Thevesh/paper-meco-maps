@@ -1,0 +1,63 @@
+state,parlimen,code_parlimen,dun,code_dun,area_compute,area_gazette,diff,diff_perc
+Sarawak,P.193 Bukit Mas,P.193,N.61 Lawas,N.61,778.7,636,142.7,22.44
+Sarawak,P.184 Lanang,P.184,N.39 Bukit Assek,N.39,61.6,55,6.6,12.0
+Sarawak,P.173 Serian,P.173,N.16 Tebedu,N.16,645.6,606,39.6,6.53
+Sarawak,P.185 Sibu,P.185,N.41 Bawang Assan,N.41,1113.7,1062,51.7,4.87
+Sarawak,P.193 Bukit Mas,P.193,N.60 Limbang,N.60,1130.7,1082,48.7,4.5
+Sarawak,P.176 Sri Aman,P.176,N.22 Bukit Begunan,N.22,1694.7,1635,59.7,3.65
+Sarawak,P.185 Sibu,P.185,N.42 Pelawan,N.42,12.4,12,0.4,3.33
+Sarawak,P.182 Julau,P.182,N.36 Meluan,N.36,2056.4,2006,50.4,2.51
+Sarawak,P.177 Lubok Antu,P.177,N.24 Engkilili,N.24,1328.9,1298,30.9,2.38
+Sarawak,P.192 Baram,P.192,N.58 Marudi,N.58,3616.2,3538,78.2,2.21
+Sarawak,P.187 Selangau,P.187,N.46 Tamin,N.46,3560.6,3492,68.6,1.96
+Sarawak,P.188 Kapit,P.188,N.48 Pelagus,N.48,3348.8,3291,57.8,1.76
+Sarawak,P.187 Selangau,P.187,N.47 Kakus,N.47,5646.1,5549,97.1,1.75
+Sarawak,P.181 Sarikei,P.181,N.34 Repok,N.34,204.9,202,2.9,1.44
+Sarawak,P.183 Kanowit,P.183,N.38 Machan,N.38,990.0,976,14.0,1.43
+Sarawak,P.173 Serian,P.173,N.17 Kedup,N.17,1427.6,1408,19.6,1.39
+Sarawak,P.175 Batang Lupar,P.175,N.21 Beting Maro,N.21,701.1,692,9.1,1.32
+Sarawak,P.189 Hulu Rajang,P.189,N.51 Belaga,N.51,19695.9,19453,242.9,1.25
+Sarawak,P.179 Saratok,P.179,N.29 Krian,N.29,889.5,882,7.5,0.85
+Sarawak,P.191 Miri,P.191,N.56 Piasau,N.56,37.3,37,0.3,0.81
+Sarawak,P.181 Sarikei,P.181,N.33 Meradong,N.33,559.1,556,3.1,0.56
+Sarawak,P.179 Saratok,P.179,N.28 Kalaka,N.28,781.2,778,3.2,0.41
+Sarawak,P.169 Bandar Kuching,P.169,N.09 Pending,N.09,14.0,14,0.0,0.0
+Sarawak,P.168 Petra Jaya,P.168,N.05 Tupong,N.05,94.6,95,-0.4,-0.42
+Sarawak,P.183 Kanowit,P.183,N.37 Ngemah,N.37,1205.2,1211,-5.8,-0.48
+Sarawak,P.180 Kuala Rajang,P.180,N.30 Belawai,N.30,1275.9,1284,-8.1,-0.63
+Sarawak,P.192 Baram,P.192,N.59 Telang Usan,N.59,15288.9,15386,-97.1,-0.63
+Sarawak,P.176 Sri Aman,P.176,N.23 Simanggang,N.23,751.9,757,-5.1,-0.67
+Sarawak,P.182 Julau,P.182,N.35 Pakan,N.35,846.1,852,-5.9,-0.69
+Sarawak,P.167 Santubong,P.167,N.03 Pantai Damai,N.03,730.7,736,-5.3,-0.72
+Sarawak,P.178 Betong,P.178,N.26 Saribas,N.26,412.6,417,-4.4,-1.06
+Sarawak,P.190 Bintulu,P.190,N.52 Kemena,N.52,7232.5,7312,-79.5,-1.09
+Sarawak,P.185 Sibu,P.185,N.43 Nangka,N.43,320.4,324,-3.6,-1.11
+Sarawak,P.174 Batang Sadong,P.174,N.19 Simunjan,N.19,925.9,938,-12.1,-1.29
+Sarawak,P.191 Miri,P.191,N.57 Senadin,N.57,703.8,715,-11.2,-1.57
+Sarawak,P.168 Petra Jaya,P.168,N.06 Satok,N.06,5.9,6,-0.1,-1.67
+Sarawak,P.171 Kota Samarahan,P.171,N.13 Muara Tuang,N.13,496.9,507,-10.1,-1.99
+Sarawak,P.184 Lanang,P.184,N.40 Dudong,N.40,649.8,664,-14.2,-2.14
+Sarawak,P.191 Miri,P.191,N.55 Lambir,N.55,1548.0,1582,-34.0,-2.15
+Sarawak,P.178 Betong,P.178,N.27 Layar,N.27,763.6,782,-18.4,-2.35
+Sarawak,P.174 Batang Sadong,P.174,N.18 Sadong Jaya,N.18,220.1,226,-5.9,-2.61
+Sarawak,P.193 Bukit Mas,P.193,N.62 Ba'kelalan,N.62,8866.6,9129,-262.4,-2.87
+Sarawak,P.180 Kuala Rajang,P.180,N.32 Matu Daro,N.32,1462.4,1506,-43.6,-2.9
+Sarawak,P.189 Hulu Rajang,P.189,N.50 Baleh,N.50,12003.6,12364,-360.4,-2.91
+Sarawak,P.168 Petra Jaya,P.168,N.07 Samariang,N.07,12.6,13,-0.4,-3.08
+Sarawak,P.188 Kapit,P.188,N.49 Katibas,N.49,3657.1,3798,-140.9,-3.71
+Sarawak,P.190 Bintulu,P.190,N.53 Kidurong,N.53,1663.2,1728,-64.8,-3.75
+Sarawak,P.172 Mambong,P.172,N.15 Tarat,N.15,750.8,782,-31.2,-3.99
+Sarawak,P.171 Kota Samarahan,P.171,N.12 Asajaya,N.12,257.0,268,-11.0,-4.1
+Sarawak,P.170 Stampin,P.170,N.11 Batu Kawah,N.11,189.3,198,-8.7,-4.39
+Sarawak,P.172 Mambong,P.172,N.14 Bengoh,N.14,572.6,602,-29.4,-4.88
+Sarawak,P.167 Santubong,P.167,N.04 Demak Laut,N.04,211.9,223,-11.1,-4.98
+Sarawak,P.186 Mukah,P.186,N.44 Dalat,N.44,1678.0,1768,-90.0,-5.09
+Sarawak,P.166 Mas Gading,P.166,N.02 Tasik Biru,N.02,968.2,1022,-53.8,-5.26
+Sarawak,P.170 Stampin,P.170,N.10 Batu Lintang,N.10,36.9,39,-2.1,-5.38
+Sarawak,P.180 Kuala Rajang,P.180,N.31 Serdeng,N.31,1079.7,1142,-62.3,-5.46
+Sarawak,P.177 Lubok Antu,P.177,N.25 Batang Air,N.25,1876.2,1996,-119.8,-6.0
+Sarawak,P.190 Bintulu,P.190,N.54 Jepak,N.54,906.1,984,-77.9,-7.92
+Sarawak,P.175 Batang Lupar,P.175,N.20 Sebuyau,N.20,1225.7,1332,-106.3,-7.98
+Sarawak,P.169 Bandar Kuching,P.169,N.08 Padungan,N.08,6.3,7,-0.7,-10.0
+Sarawak,P.166 Mas Gading,P.166,N.01 Tanjong Datu,N.01,921.2,1034,-112.8,-10.91
+Sarawak,P.186 Mukah,P.186,N.45 Balingian,N.45,1233.9,1397,-163.1,-11.68

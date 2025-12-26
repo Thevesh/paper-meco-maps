@@ -1,0 +1,395 @@
+state,parlimen,code_parlimen,dun,code_dun,area_compute,area_gazette,diff,diff_perc
+Pahang,P.083 Bentung,P.083,N.31 Pelangai,N.31,700.5,345,355.5,103.04
+Perak,P.072 Bagan Datok,P.072,N.47 Rungkup,N.47,286.6,229,57.6,25.15
+Pulau Pinang,P.048 Tanjong,P.048,N.22 Padang Kota,N.22,2.5,2,0.5,25.0
+Kedah,P.015 Sungai Petani,P.015,N.29 Sidam,N.29,96.2,77,19.2,24.94
+Kedah,P.009 Alor Setar,P.009,N.13 Kota Darul Aman,N.13,6.1,5,1.1,22.0
+Kedah,P.008 Pokok Sena,P.008,N.09 Bukit Lada,N.09,241.2,209,32.2,15.41
+Pulau Pinang,P.049 Jelutong,P.049,N.27 Batu Lanchang,N.27,2.3,2,0.3,15.0
+Perlis,P.002 Kangar,P.002,N.08 Indera Kayangan,N.08,6.8,6,0.8,13.33
+Terengganu,P.039 Dungun,P.039,N.27 Sura,N.27,10.2,9,1.2,13.33
+Pahang,P.080 Pekan,P.080,N.18 Kuala Pahang,N.18,227.6,201,26.6,13.23
+Johor,P.140 Tebrau,P.140,N.32 Pasir Gudang,N.32,305.0,275,30.0,10.91
+Selangor,P.099 Kapar,P.099,N.40 Selat Klang,N.40,223.7,202,21.7,10.74
+Kelantan,P.021 Kota Bharu,P.021,N.07 Tanjong Mas,N.07,23.2,21,2.2,10.48
+Perak,P.054 Parit Buntar,P.054,N.06 Titi Serong,N.06,89.0,81,8.0,9.88
+Perak,P.071 Lumut,P.071,N.45 Pasir Panjang,N.45,234.3,215,19.3,8.98
+Kedah,P.014 Merbok,P.014,N.26 Tanjong Dawai,N.26,174.2,160,14.2,8.87
+Negeri Sembilan,P.119 Telok Kemang,P.119,N.30 Pasir Panjang,N.30,95.7,88,7.7,8.75
+Kelantan,P.026 Peringat,P.026,N.23 Kadok,N.23,60.7,56,4.7,8.39
+Kelantan,P.021 Kota Bharu,P.021,N.08 Kota Lama,N.08,6.5,6,0.5,8.33
+Perlis,P.002 Kangar,P.002,N.09 Kuala Perlis,N.09,22.7,21,1.7,8.1
+Perak,P.056 Bukit Gantang,P.056,N.10 Kuala Sapetang,N.10,415.9,385,30.9,8.03
+Kelantan,P.019 Tumpat,P.019,N.02 Kelaboran,N.02,53.7,50,3.7,7.4
+Perlis,P.003 Arau,P.003,N.15 Sanglang,N.15,42.9,40,2.9,7.25
+Kedah,P.005 Jerlun,P.005,N.03 Ayer Hitam,N.03,135.1,126,9.1,7.22
+Perak,P.061 Ipoh Timor,P.061,N.23 Tebing Tinggi,N.23,10.7,10,0.7,7.0
+Terengganu,P.036 Kuala Terengganu,P.036,N.13 Wakaf Mempelam,N.13,12.8,12,0.8,6.67
+Kelantan,P.021 Kota Bharu,P.021,N.09 Bunut Payong,N.09,14.9,14,0.9,6.43
+Perak,P.061 Ipoh Timor,P.061,N.24 Pasir Pinji,N.24,8.5,8,0.5,6.25
+Kelantan,P.028 Pasir Puteh,P.028,N.30 Semerak,N.30,124.2,117,7.2,6.15
+Terengganu,P.040 Kemaman,P.040,N.31 Cukai,N.31,98.7,93,5.7,6.13
+Melaka,P.123 Kota Melaka,P.123,N.16 Tengkera,N.16,5.3,5,0.3,6.0
+Johor,P.142 Pulai,P.142,N.35 Tambatan,N.35,20.1,19,1.1,5.79
+Kedah,P.015 Sungai Petani,P.015,N.27 Pantai Merdeka,N.27,138.5,131,7.5,5.73
+Pahang,P.078 Kuantan,P.078,N.12 Beserah,N.12,326.5,309,17.5,5.66
+Kelantan,P.022 Pasir Mas,P.022,N.10 Wakaf Bharu,N.10,48.5,46,2.5,5.43
+Pulau Pinang,P.047 Bukit Bendera,P.047,N.21 Kebun Bunga,N.21,12.6,12,0.6,5.0
+Terengganu,P.033 Besut,P.033,N.01 Kuala Besut,N.01,70.1,67,3.1,4.63
+Johor,P.139 Kota Tinggi,P.139,N.30 Pengerang,N.30,944.5,903,41.5,4.6
+Melaka,P.120 Alor Gajah,P.120,N.01 Kuala Linggi,N.01,65.8,63,2.8,4.44
+Kelantan,P.020 Pengkalan Chepa,P.020,N.06 Panchor,N.06,27.1,26,1.1,4.23
+Johor,P.141 Johor Bahru,P.141,N.33 Tanjong Puteri,N.33,12.5,12,0.5,4.17
+Johor,P.129 Mersing,P.129,N.09 Endau,N.09,527.3,507,20.3,4.0
+Selangor,P.089 Kuala Selangor,P.089,N.10 Permatang,N.10,231.9,223,8.9,3.99
+Selangor,P.102 Sepang,P.102,N.46 Batu Laut,N.46,333.7,321,12.7,3.96
+Perak,P.063 Batu Gajah,P.063,N.27 Menglembu,N.27,44.7,43,1.7,3.95
+Kedah,P.018 Kulim-Bandar Baharu,P.018,N.36 Bandar Baharu,N.36,275.3,265,10.3,3.89
+Kedah,P.011 Pendang,P.011,N.19 Sungai Tiang,N.19,473.7,456,17.7,3.88
+Selangor,P.095 PJ Selatan,P.095,N.28 Taman Medan,N.28,8.3,8,0.3,3.75
+Perlis,P.003 Arau,P.003,N.13 Guar Sanji,N.13,44.6,43,1.6,3.72
+Terengganu,P.034 Setiu,P.034,N.08 Batu Rakit,N.08,130.6,126,4.6,3.65
+Kelantan,P.024 Kubang Kerian,P.024,N.18 Kenali,N.18,43.5,42,1.5,3.57
+Perlis,P.002 Kangar,P.002,N.10 Kayang,N.10,32.1,31,1.1,3.55
+Kelantan,P.024 Kubang Kerian,P.024,N.16 Salor,N.16,41.4,40,1.4,3.5
+Selangor,P.090 Selayang,P.090,N.14 Selayang Baharu,N.14,23.8,23,0.8,3.48
+Negeri Sembilan,P.118 Rasah,P.118,N.25 Rahang,N.25,6.2,6,0.2,3.33
+Terengganu,P.037 Marang,P.037,N.17 Alur Limbat,N.17,68.2,66,2.2,3.33
+Kelantan,P.028 Pasir Puteh,P.028,N.29 Limbongan,N.29,90.8,88,2.8,3.18
+Perak,P.061 Ipoh Timor,P.061,N.22 Taman Canning,N.22,22.7,22,0.7,3.18
+Kedah,P.010 Kuala Kedah,P.010,N.16 Kubang Rotan,N.16,55.7,54,1.7,3.15
+Kelantan,P.026 Peringat,P.026,N.22 Melor,N.22,52.6,51,1.6,3.14
+Kelantan,P.027 Tanah Merah,P.027,N.25 Chetok,N.25,118.6,115,3.6,3.13
+Pahang,P.085 Rompin,P.085,N.38 Tioman,N.38,1626.2,1578,48.2,3.05
+Perlis,P.001 Padang Besar,P.001,N.02 Beseri,N.02,140.0,136,4.0,2.94
+Pulau Pinang,P.050 Bayan Baru,P.050,N.28 Bukit Gelugor,N.28,7.2,7,0.2,2.86
+Kedah,P.009 Alor Setar,P.009,N.12 Derga,N.12,7.2,7,0.2,2.86
+Terengganu,P.036 Kuala Terengganu,P.036,N.14 Bandar,N.14,7.2,7,0.2,2.86
+Perlis,P.003 Arau,P.003,N.11 Pauh,N.11,51.4,50,1.4,2.8
+Pulau Pinang,P.044 Permatang Pauh,P.044,N.11 Permatang Pasir,N.11,29.8,29,0.8,2.76
+Kedah,P.012 Yan,P.012,N.20 Sala,N.20,136.6,133,3.6,2.71
+Negeri Sembilan,P.119 Telok Kemang,P.119,N.32 Lukut,N.32,186.8,182,4.8,2.64
+Kedah,P.011 Pendang,P.011,N.18 Bukit Raya,N.18,164.1,160,4.1,2.56
+Johor,P.144 Pontian,P.144,N.39 Pulai Sebatang,N.39,226.6,221,5.6,2.53
+Pulau Pinang,P.041 Kepala Batas,P.041,N.02 Bertam,N.02,24.6,24,0.6,2.5
+Kelantan,P.031 Kuala Krai,P.031,N.39 Mengkebang,N.39,595.0,581,14.0,2.41
+Selangor,P.097 Subang,P.097,N.32 Bukit Lanjan,N.32,86.0,84,2.0,2.38
+Kelantan,P.023 Rantau Panjang,P.023,N.15 Bukit Tuku,N.15,138.2,135,3.2,2.37
+Pahang,P.076 Raub,P.076,N.05 Benta,N.05,316.3,309,7.3,2.36
+Kelantan,P.031 Kuala Krai,P.031,N.40 Manek Urai,N.40,666.3,651,15.3,2.35
+Kelantan,P.022 Pasir Mas,P.022,N.11 Tendong,N.11,52.2,51,1.2,2.35
+Kelantan,P.029 Machang,P.029,N.32 Pulai Chondong,N.32,146.3,143,3.3,2.31
+Perlis,P.002 Kangar,P.002,N.07 Sena,N.07,26.6,26,0.6,2.31
+Perlis,P.002 Kangar,P.002,N.06 Bintong,N.06,67.5,66,1.5,2.27
+Kelantan,P.027 Tanah Merah,P.027,N.27 Gual Ipoh,N.27,416.1,407,9.1,2.24
+Pahang,P.085 Rompin,P.085,N.37 Muadzam Shah,N.37,2004.8,1961,43.8,2.23
+Negeri Sembilan,P.119 Telok Kemang,P.119,N.31 Si Rusa,N.31,142.1,139,3.1,2.23
+Johor,P.126 Ledang,P.126,N.03 Tangkak,N.03,376.0,368,8.0,2.17
+Perak,P.071 Lumut,P.071,N.46 Sitiawan,N.46,121.5,119,2.5,2.1
+Perak,P.072 Bagan Datok,P.072,N.48 Hutan Melintang,N.48,361.4,354,7.4,2.09
+Kelantan,P.030 Jeli,P.030,N.35 Kemahang,N.35,238.8,234,4.8,2.05
+Terengganu,P.040 Kemaman,P.040,N.30 Kijal,N.30,546.8,536,10.8,2.01
+Johor,P.144 Pontian,P.144,N.40 Kukup,N.40,366.2,359,7.2,2.01
+Pulau Pinang,P.045 Bukit Mertajam,P.045,N.13 Berapit,N.13,10.2,10,0.2,2.0
+Kelantan,P.032 Gua Musang,P.032,N.42 Paloh,N.42,3357.6,3292,65.6,1.99
+Terengganu,P.033 Besut,P.033,N.02 Kampung Raja,N.02,93.8,92,1.8,1.96
+Selangor,P.092 Ampang Jaya,P.092,N.19 Ampang,N.19,36.7,36,0.7,1.94
+Johor,P.138 Senai,P.138,N.27 Kulai,N.27,328.1,322,6.1,1.89
+Kelantan,P.029 Machang,P.029,N.33 Banggol Judah,N.33,260.8,256,4.8,1.88
+Perak,P.057 Taiping,P.057,N.13 Kamunting,N.13,119.2,117,2.2,1.88
+Selangor,P.100 Klang,P.100,N.42 Pelabuhan Klang,N.42,48.9,48,0.9,1.87
+Selangor,P.099 Kapar,P.099,N.38 Meru,N.38,167.0,164,3.0,1.83
+Kelantan,P.030 Jeli,P.030,N.36 Air Lanas,N.36,412.4,405,7.4,1.83
+Negeri Sembilan,P.114 Jempol,P.114,N.06 Bahau,N.06,50.9,50,0.9,1.8
+Pahang,P.082 Mentekab,P.082,N.26 Sanggang,N.26,249.4,245,4.4,1.8
+Johor,P.139 Kota Tinggi,P.139,N.29 Sedili,N.29,1135.7,1116,19.7,1.77
+Kedah,P.009 Alor Setar,P.009,N.14 Alor Merah,N.14,29.5,29,0.5,1.72
+Terengganu,P.040 Kemaman,P.040,N.32 Air Putih,N.32,1603.0,1576,27.0,1.71
+Kedah,P.004 Langkawi,P.004,N.02 Kuah,N.02,233.9,230,3.9,1.7
+Perlis,P.001 Padang Besar,P.001,N.05 Santan,N.05,24.4,24,0.4,1.67
+Selangor,P.096 Serdang,P.096,N.30 Sri Kembangan,N.30,18.3,18,0.3,1.67
+Terengganu,P.040 Kemaman,P.040,N.29 Kemasik,N.29,325.3,320,5.3,1.66
+Pulau Pinang,P.041 Kepala Batas,P.041,N.01 Penaga,N.01,37.6,37,0.6,1.62
+Perak,P.062 Ipoh Barat,P.062,N.25 Bercham,N.25,31.5,31,0.5,1.61
+Melaka,P.122 Batu Berendam,P.122,N.11 Tangga Batu,N.11,38.6,38,0.6,1.58
+Perlis,P.001 Padang Besar,P.001,N.04 Mata Ayer,N.04,19.3,19,0.3,1.58
+Negeri Sembilan,P.119 Telok Kemang,P.119,N.29 Linggi,N.29,254.9,251,3.9,1.55
+Kedah,P.005 Jerlun,P.005,N.04 Kota Siputeh,N.04,185.8,183,2.8,1.53
+Kelantan,P.027 Tanah Merah,P.027,N.26 Bukit Panau,N.26,135.0,133,2.0,1.5
+Terengganu,P.034 Setiu,P.034,N.05 Jabi,N.05,193.8,191,2.8,1.47
+Selangor,P.091 Gombak,P.091,N.16 Sungai Tua,N.16,103.5,102,1.5,1.47
+Kedah,P.008 Pokok Sena,P.008,N.11 Tanjong Seri,N.11,90.3,89,1.3,1.46
+Pulau Pinang,P.044 Permatang Pauh,P.044,N.10 Seberang Jaya,N.10,21.3,21,0.3,1.43
+Selangor,P.098 Shah Alam,P.098,N.37 Kota Raja,N.37,107.5,106,1.5,1.42
+Selangor,P.086 Sabak Bernam,P.086,N.01 Sungai Air Tawar,N.01,165.3,163,2.3,1.41
+Terengganu,P.039 Dungun,P.039,N.25 Bukit Besi,N.25,2178.2,2148,30.2,1.41
+Perak,P.065 Beruas,P.065,N.31 Pengkalan Baharu,N.31,398.5,393,5.5,1.4
+Pahang,P.079 Paya Besar,P.079,N.15 Sungai Lembing,N.15,1111.1,1096,15.1,1.38
+Pulau Pinang,P.047 Bukit Bendera,P.047,N.20 Air Itam,N.20,29.4,29,0.4,1.38
+Pulau Pinang,P.047 Bukit Bendera,P.047,N.19 Tanjong Bunga,N.19,22.3,22,0.3,1.36
+Kelantan,P.028 Pasir Puteh,P.028,N.28 Selising,N.28,107.4,106,1.4,1.32
+Selangor,P.099 Kapar,P.099,N.39 Sementa,N.39,123.6,122,1.6,1.31
+Pahang,P.075 Lipis,P.075,N.04 Ceka,N.04,525.5,519,6.5,1.25
+Kedah,P.006 Kubang Pasu,P.006,N.05 Tunjang,N.05,458.6,453,5.6,1.24
+Johor,P.140 Tebrau,P.140,N.31 Tiram,N.31,320.9,317,3.9,1.23
+Perak,P.063 Batu Gajah,P.063,N.28 Lahat,N.28,91.1,90,1.1,1.22
+Kedah,P.007 Padang Terap,P.007,N.07 Kuala Nerang,N.07,664.4,657,7.4,1.13
+Pulau Pinang,P.042 Tasek Gelugor,P.042,N.04 Permatang Berangan,N.04,56.6,56,0.6,1.07
+Perak,P.058 Chenderoh,P.058,N.16 Lenggong,N.16,392.1,388,4.1,1.06
+Johor,P.127 Pagoh,P.127,N.06 Jorak,N.06,449.7,445,4.7,1.06
+Pulau Pinang,P.050 Bayan Baru,P.050,N.29 Paya Terubong,N.29,19.2,19,0.2,1.05
+Perak,P.059 Sungai Siput,P.059,N.18 Lintang,N.18,1112.3,1101,11.3,1.03
+Negeri Sembilan,P.118 Rasah,P.118,N.23 Labu,N.23,147.5,146,1.5,1.03
+Perak,P.052 Gerik,P.052,N.02 Temengor,N.02,3949.0,3909,40.0,1.02
+Kedah,P.013 Sik,P.013,N.23 Jeneri,N.23,340.4,337,3.4,1.01
+Pulau Pinang,P.043 Bagan,P.043,N.07 Sungai Puyu,N.07,10.1,10,0.1,1.0
+Selangor,P.093 Hulu Langat,P.093,N.24 Beranang,N.24,359.5,356,3.5,0.98
+Perak,P.055 Bagan Serai,P.055,N.09 Gunong Semanggol,N.09,241.3,239,2.3,0.96
+Terengganu,P.035 Kuala Nerus,P.035,N.11 Seberang Takir,N.11,21.2,21,0.2,0.95
+Terengganu,P.039 Dungun,P.039,N.28 Paka,N.28,359.3,356,3.3,0.93
+Pulau Pinang,P.046 Nibong Tebal,P.046,N.16 Sungai Bakap,N.16,97.9,97,0.9,0.93
+Kedah,P.016 Baling,P.016,N.31 Kupang,N.31,359.3,356,3.3,0.93
+Johor,P.135 Batu Pahat,P.135,N.21 Penggaram,N.21,179.6,178,1.6,0.9
+Kedah,P.016 Baling,P.016,N.30 Bayu,N.30,757.6,751,6.6,0.88
+Selangor,P.101 Kuala Langat,P.101,N.45 Morib,N.45,116.0,115,1.0,0.87
+Johor,P.129 Mersing,P.129,N.10 Tenggaroh,N.10,2901.1,2876,25.1,0.87
+Perak,P.055 Bagan Serai,P.055,N.08 Alor Pongsu,N.08,338.9,336,2.9,0.86
+Perak,P.073 Telok Intan,P.073,N.50 Changkat Jong,N.50,752.3,746,6.3,0.84
+Perak,P.067 Gopeng,P.067,N.36 Teja,N.36,411.4,408,3.4,0.83
+Melaka,P.123 Kota Melaka,P.123,N.19 Duyong,N.19,12.1,12,0.1,0.83
+Terengganu,P.035 Kuala Nerus,P.035,N.09 Tepuh,N.09,233.9,232,1.9,0.82
+Negeri Sembilan,P.113 Jelebu,P.113,N.02 Klawang,N.02,230.8,229,1.8,0.79
+Selangor,P.098 Shah Alam,P.098,N.35 Batu Tiga,N.35,39.3,39,0.3,0.77
+Kelantan,P.029 Machang,P.029,N.34 Kemuning,N.34,131.0,130,1.0,0.77
+Selangor,P.096 Serdang,P.096,N.31 Balakong,N.31,54.4,54,0.4,0.74
+Johor,P.131 Parit Sulong,P.131,N.14 Semerah,N.14,166.2,165,1.2,0.73
+Johor,P.126 Ledang,P.126,N.04 Serom,N.04,277.0,275,2.0,0.73
+Pahang,P.083 Bentung,P.083,N.30 Sabai,N.30,350.5,348,2.5,0.72
+Pahang,P.080 Pekan,P.080,N.19 Bebar,N.19,1995.3,1981,14.3,0.72
+Perlis,P.003 Arau,P.003,N.12 Tambun Tulang,N.12,42.3,42,0.3,0.71
+Selangor,P.096 Serdang,P.096,N.29 Pucung,N.29,99.7,99,0.7,0.71
+Perak,P.074 Tanjong Malim,P.074,N.52 Slim,N.52,1174.2,1166,8.2,0.7
+Terengganu,P.037 Marang,P.037,N.20 Pengkalan Berangan,N.20,486.3,483,3.3,0.68
+Pahang,P.076 Raub,P.076,N.06 Batu Talam,N.06,1107.5,1100,7.5,0.68
+Johor,P.143 Gelang Patah,P.143,N.37 Tanjong Kupang,N.37,343.3,341,2.3,0.67
+Negeri Sembilan,P.117 Seremban,P.117,N.18 Nilai,N.18,164.1,163,1.1,0.67
+Johor,P.125 Segamat,P.125,N.01 Sepinang,N.01,853.6,848,5.6,0.66
+Negeri Sembilan,P.114 Jempol,P.114,N.07 Jeram Padang,N.07,346.2,344,2.2,0.64
+Perlis,P.001 Padang Besar,P.001,N.03 Chuping,N.03,143.9,143,0.9,0.63
+Melaka,P.122 Batu Berendam,P.122,N.14 Bachang,N.14,16.1,16,0.1,0.63
+Kelantan,P.025 Bachok,P.025,N.21 Jelawat,N.21,128.8,128,0.8,0.63
+Terengganu,P.033 Besut,P.033,N.03 Jertih,N.03,130.8,130,0.8,0.62
+Negeri Sembilan,P.117 Seremban,P.117,N.20 Senawang,N.20,114.7,114,0.7,0.61
+Perak,P.064 Kuala Kangsar,P.064,N.29 Bukit Chandan,N.29,333.0,331,2.0,0.6
+Kelantan,P.022 Pasir Mas,P.022,N.12 Pengkalan Pasir,N.12,35.2,35,0.2,0.57
+Pulau Pinang,P.042 Tasek Gelugor,P.042,N.05 Sungai Dua,N.05,35.2,35,0.2,0.57
+Johor,P.136 Tenggara,P.136,N.23 Panti,N.23,556.1,553,3.1,0.56
+Negeri Sembilan,P.116 Kuala Pilah,P.116,N.17 Seri Menanti,N.17,331.8,330,1.8,0.55
+Selangor,P.086 Sabak Bernam,P.086,N.03 Sungai Besar,N.03,93.5,93,0.5,0.54
+Selangor,P.097 Subang,P.097,N.34 Subang Jaya,N.34,37.2,37,0.2,0.54
+Kedah,P.010 Kuala Kedah,P.010,N.15 Anak Bukit,N.15,76.4,76,0.4,0.53
+Kedah,P.018 Kulim-Bandar Baharu,P.018,N.35 Kulim,N.35,411.1,409,2.1,0.51
+Pulau Pinang,P.045 Bukit Mertajam,P.045,N.14 Machang Bubuk,N.14,59.3,59,0.3,0.51
+Selangor,P.088 Hulu Selangor,P.088,N.09 Batang Kali,N.09,497.4,495,2.4,0.48
+Selangor,P.090 Selayang,P.090,N.13 Rawang,N.13,168.8,168,0.8,0.48
+Negeri Sembilan,P.113 Jelebu,P.113,N.03 Pertang,N.03,433.0,431,2.0,0.46
+Terengganu,P.038 Hulu Terengganu,P.038,N.22 Manir,N.22,66.3,66,0.3,0.45
+Pulau Pinang,P.041 Kepala Batas,P.041,N.03 Pinang Tunggal,N.03,74.3,74,0.3,0.41
+Johor,P.138 Senai,P.138,N.28 Bukit Permai,N.28,558.3,556,2.3,0.41
+Selangor,P.102 Sepang,P.102,N.48 Sungai Pelik,N.48,270.1,269,1.1,0.41
+Terengganu,P.034 Setiu,P.034,N.07 Langkap,N.07,628.5,626,2.5,0.4
+Perak,P.069 Tapah,P.069,N.40 Chenderiang,N.40,663.5,661,2.5,0.38
+Perak,P.070 Pasir Salak,P.070,N.42 Sungai Manik,N.42,217.8,217,0.8,0.37
+Johor,P.128 Labis,P.128,N.08 Bekok,N.08,1212.5,1208,4.5,0.37
+Selangor,P.087 Tanjong Karang,P.087,N.06 Sungai Burong,N.06,431.6,430,1.6,0.37
+Selangor,P.089 Kuala Selangor,P.089,N.11 Ijuk,N.11,354.3,353,1.3,0.37
+Selangor,P.101 Kuala Langat,P.101,N.43 Sijangkang,N.43,257.9,257,0.9,0.35
+Kedah,P.012 Yan,P.012,N.21 Guar Chempedak,N.21,113.4,113,0.4,0.35
+Melaka,P.120 Alor Gajah,P.120,N.04 Masjid Tanah,N.04,87.3,87,0.3,0.34
+Johor,P.142 Pulai,P.142,N.36 Kempas,N.36,29.1,29,0.1,0.34
+Perak,P.070 Pasir Salak,P.070,N.43 Kampong Gajah,N.43,829.5,827,2.5,0.3
+Johor,P.130 Kluang,P.130,N.11 Paloh,N.11,794.3,792,2.3,0.29
+Negeri Sembilan,P.115 Tampin,P.115,N.12 Kota,N.12,145.4,145,0.4,0.28
+Kedah,P.017 Padang Serai,P.017,N.33 Merbau Pulas,N.33,272.7,272,0.7,0.26
+Kelantan,P.032 Gua Musang,P.032,N.43 Galas,N.43,4517.9,4506,11.9,0.26
+Johor,P.128 Labis,P.128,N.07 Tenang,N.07,567.4,566,1.4,0.25
+Perlis,P.001 Padang Besar,P.001,N.01 Titi Tinggi,N.01,119.3,119,0.3,0.25
+Terengganu,P.038 Hulu Terengganu,P.038,N.21 Telemung,N.21,3189.6,3182,7.6,0.24
+Perak,P.067 Gopeng,P.067,N.35 Rapat Setia,N.35,176.4,176,0.4,0.23
+Pahang,P.080 Pekan,P.080,N.20 Cini,N.20,1251.9,1249,2.9,0.23
+Johor,P.134 Sri Gading,P.134,N.20 Parit Raja,N.20,184.4,184,0.4,0.22
+Johor,P.137 Sungai Benut,P.137,N.25 Simpang Renggam,N.25,760.7,759,1.7,0.22
+Johor,P.134 Sri Gading,P.134,N.19 Parit Yaani,N.19,509.0,508,1.0,0.2
+Melaka,P.122 Batu Berendam,P.122,N.12 Paya Rumput,N.12,50.1,50,0.1,0.2
+Terengganu,P.038 Hulu Terengganu,P.038,N.24 Ajil,N.24,509.0,508,1.0,0.2
+Melaka,P.120 Alor Gajah,P.120,N.03 Melekek,N.03,106.2,106,0.2,0.19
+Kedah,P.017 Padang Serai,P.017,N.32 Kuala Ketil,N.32,431.8,431,0.8,0.19
+Melaka,P.122 Batu Berendam,P.122,N.15 Ayer Molek,N.15,63.1,63,0.1,0.16
+Perak,P.066 Parit,P.066,N.34 Bota,N.34,274.4,274,0.4,0.15
+Kelantan,P.025 Bachok,P.025,N.19 Tawang,N.19,68.1,68,0.1,0.15
+Negeri Sembilan,P.118 Rasah,P.118,N.27 Rantau,N.27,142.2,142,0.2,0.14
+Terengganu,P.039 Dungun,P.039,N.26 Rantau Abang,N.26,207.3,207,0.3,0.14
+Pahang,P.077 Jerantut,P.077,N.09 Tahan,N.09,5798.1,5790,8.1,0.14
+Johor,P.133 Muar,P.133,N.17 Parit Bakar,N.17,70.1,70,0.1,0.14
+Melaka,P.121 Selandar,P.121,N.07 Bukit Sedanan,N.07,152.2,152,0.2,0.13
+Selangor,P.089 Kuala Selangor,P.089,N.12 Jeram,N.12,215.2,215,0.2,0.09
+Johor,P.127 Pagoh,P.127,N.05 Bukit Serampang,N.05,635.6,635,0.6,0.09
+Johor,P.125 Segamat,P.125,N.02 Jementah,N.02,354.3,354,0.3,0.08
+Selangor,P.102 Sepang,P.102,N.47 Dengkil,N.47,326.2,326,0.2,0.06
+Pahang,P.083 Bentung,P.083,N.28 Bilut,N.28,274.1,274,0.1,0.04
+Pahang,P.084 Temerluh,P.084,N.35 Bera,N.35,1651.7,1651,0.7,0.04
+Johor,P.136 Tenggara,P.136,N.24 Gunung Lambak,N.24,1238.4,1238,0.4,0.03
+Melaka,P.121 Selandar,P.121,N.10 Rembia,N.10,54.0,54,0.0,0.0
+Melaka,P.123 Kota Melaka,P.123,N.18 Bandar Hilir,N.18,3.0,3,0.0,0.0
+Kedah,P.008 Pokok Sena,P.008,N.10 Langgar,N.10,76.0,76,0.0,0.0
+Melaka,P.124 Jasin,P.124,N.24 Serkam,N.24,48.0,48,0.0,0.0
+Pulau Pinang,P.049 Jelutong,P.049,N.25 Datok Keramat,N.25,3.0,3,0.0,0.0
+Perlis,P.003 Arau,P.003,N.14 Simpang Empat,N.14,36.0,36,0.0,0.0
+Melaka,P.120 Alor Gajah,P.120,N.05 Sungai Udang,N.05,39.0,39,0.0,0.0
+Negeri Sembilan,P.114 Jempol,P.114,N.05 Serting,N.05,441.9,442,-0.1,-0.02
+Negeri Sembilan,P.114 Jempol,P.114,N.08 Palong,N.08,362.9,363,-0.1,-0.03
+Selangor,P.087 Tanjong Karang,P.087,N.05 Sekinchan,N.05,271.9,272,-0.1,-0.04
+Johor,P.135 Batu Pahat,P.135,N.22 Rengit,N.22,262.8,263,-0.2,-0.08
+Negeri Sembilan,P.115 Tampin,P.115,N.10 Gemencheh,N.10,337.6,338,-0.4,-0.12
+Pahang,P.077 Jerantut,P.077,N.10 Damak,N.10,616.2,617,-0.8,-0.13
+Melaka,P.120 Alor Gajah,P.120,N.02 Ramuan China,N.02,67.9,68,-0.1,-0.15
+Terengganu,P.038 Hulu Terengganu,P.038,N.23 Kuala Berang,N.23,136.8,137,-0.2,-0.15
+Selangor,P.087 Tanjong Karang,P.087,N.04 Sungai Panjang,N.04,366.4,367,-0.6,-0.16
+Pahang,P.075 Lipis,P.075,N.02 Jelai,N.02,2779.4,2784,-4.6,-0.17
+Selangor,P.093 Hulu Langat,P.093,N.22 Dusun Tua,N.22,307.4,308,-0.6,-0.19
+Perak,P.069 Tapah,P.069,N.41 Ayer Kuning,N.41,322.4,323,-0.6,-0.19
+Melaka,P.124 Jasin,P.124,N.21 Ayer Panas,N.21,91.8,92,-0.2,-0.22
+Negeri Sembilan,P.118 Rasah,P.118,N.26 Mambau,N.26,42.9,43,-0.1,-0.23
+Pahang,P.077 Jerantut,P.077,N.11 Pulau Tawar,N.11,917.9,920,-2.1,-0.23
+Negeri Sembilan,P.116 Kuala Pilah,P.116,N.15 Johol,N.15,328.2,329,-0.8,-0.24
+Kelantan,P.030 Jeli,P.030,N.37 Pergau,N.37,1016.3,1019,-2.7,-0.26
+Kelantan,P.024 Kubang Kerian,P.024,N.17 Pasir Tumboh,N.17,37.9,38,-0.1,-0.26
+Pahang,P.083 Bentung,P.083,N.29 Ketari,N.29,539.5,541,-1.5,-0.28
+Kelantan,P.023 Rantau Panjang,P.023,N.13 Meranti,N.13,71.8,72,-0.2,-0.28
+Pahang,P.082 Mentekab,P.082,N.25 Jenderak,N.25,955.3,958,-2.7,-0.28
+Selangor,P.088 Hulu Selangor,P.088,N.07 Hulu Bernam,N.07,573.4,575,-1.6,-0.28
+Perak,P.060 Tambun,P.060,N.21 Hulu Kinta,N.21,379.9,381,-1.1,-0.29
+Selangor,P.091 Gombak,P.091,N.17 Gombak Setia,N.17,134.6,135,-0.4,-0.3
+Perak,P.068 Kampar,P.068,N.37 Tualang Sekah,N.37,263.2,264,-0.8,-0.3
+Terengganu,P.033 Besut,P.033,N.04 Hulu Besut,N.04,741.8,744,-2.2,-0.3
+Melaka,P.121 Selandar,P.121,N.09 Durian Tunggal,N.09,88.7,89,-0.3,-0.34
+Johor,P.137 Sungai Benut,P.137,N.26 Benut,N.26,351.8,353,-1.2,-0.34
+Perak,P.056 Bukit Gantang,P.056,N.12 Trong,N.12,536.0,538,-2.0,-0.37
+Perak,P.053 Larut,P.053,N.05 Batu Kurau,N.05,494.1,496,-1.9,-0.38
+Melaka,P.121 Selandar,P.121,N.06 Pulau Sebang,N.06,51.8,52,-0.2,-0.38
+Pulau Pinang,P.045 Bukit Mertajam,P.045,N.15 Bukit Tengah,N.15,52.8,53,-0.2,-0.38
+Kelantan,P.025 Bachok,P.025,N.20 Perupok,N.20,71.7,72,-0.3,-0.42
+Pahang,P.081 Maran,P.081,N.21 Luit,N.21,622.3,625,-2.7,-0.43
+Pulau Pinang,P.044 Permatang Pauh,P.044,N.12 Penanti,N.12,46.8,47,-0.2,-0.43
+Negeri Sembilan,P.115 Tampin,P.115,N.09 Gemas,N.09,292.7,294,-1.3,-0.44
+Selangor,P.098 Shah Alam,P.098,N.36 Sungai Renggam,N.36,44.8,45,-0.2,-0.44
+Perak,P.066 Parit,P.066,N.33 Belanja,N.33,284.7,286,-1.3,-0.45
+Melaka,P.124 Jasin,P.124,N.23 Merlimau,N.23,149.3,150,-0.7,-0.47
+Perak,P.056 Bukit Gantang,P.056,N.11 Changkat Jering,N.11,85.6,86,-0.4,-0.47
+Johor,P.131 Parit Sulong,P.131,N.13 Sri Medan,N.13,656.7,660,-3.3,-0.5
+Selangor,P.090 Selayang,P.090,N.15 Paya Jaras,N.15,140.3,141,-0.7,-0.5
+Kedah,P.013 Sik,P.013,N.22 Belantek,N.22,1312.2,1319,-6.8,-0.52
+Melaka,P.124 Jasin,P.124,N.22 Rim,N.22,112.4,113,-0.6,-0.53
+Kedah,P.014 Merbok,P.014,N.24 Bukit Selambau,N.24,283.5,285,-1.5,-0.53
+Negeri Sembilan,P.119 Telok Kemang,P.119,N.28 Chembong,N.28,145.2,146,-0.8,-0.55
+Pahang,P.076 Raub,P.076,N.07 Teras,N.07,493.2,496,-2.8,-0.56
+Johor,P.130 Kluang,P.130,N.12 Mengkibol,N.12,152.1,153,-0.9,-0.59
+Pulau Pinang,P.042 Tasek Gelugor,P.042,N.06 Telok Ayer Tawar,N.06,16.9,17,-0.1,-0.59
+Perak,P.068 Kampar,P.068,N.39 Malim Nawar,N.39,135.2,136,-0.8,-0.59
+Melaka,P.121 Selandar,P.121,N.08 Bukit Asahan,N.08,213.7,215,-1.3,-0.6
+Pulau Pinang,P.046 Nibong Tebal,P.046,N.17 Jawi,N.17,96.4,97,-0.6,-0.62
+Pahang,P.076 Raub,P.076,N.08 Dong,N.08,721.3,726,-4.7,-0.65
+Pahang,P.084 Temerluh,P.084,N.33 Teriang,N.33,181.8,183,-1.2,-0.66
+Pahang,P.082 Mentekab,P.082,N.27 Lancang,N.27,807.6,813,-5.4,-0.66
+Perak,P.053 Larut,P.053,N.04 Selama,N.04,544.4,548,-3.6,-0.66
+Negeri Sembilan,P.113 Jelebu,P.113,N.01 Chennah,N.01,722.1,727,-4.9,-0.67
+Selangor,P.086 Sabak Bernam,P.086,N.02 Sabak,N.02,100.3,101,-0.7,-0.69
+Selangor,P.097 Subang,P.097,N.33 Kelana Jaya,N.33,42.7,43,-0.3,-0.7
+Selangor,P.088 Hulu Selangor,P.088,N.08 Kuala Kubu Baharu,N.08,628.6,633,-4.4,-0.7
+Selangor,P.093 Hulu Langat,P.093,N.23 Kajang,N.23,84.4,85,-0.6,-0.71
+Perak,P.052 Gerik,P.052,N.03 Kenering,N.03,1731.4,1744,-12.6,-0.72
+Perak,P.074 Tanjong Malim,P.074,N.51 Sungkai,N.51,678.1,683,-4.9,-0.72
+Selangor,P.101 Kuala Langat,P.101,N.44 Teluk Datuk,N.44,180.6,182,-1.4,-0.77
+Pahang,P.079 Paya Besar,P.079,N.17 Penur,N.17,388.9,392,-3.1,-0.79
+Negeri Sembilan,P.117 Seremban,P.117,N.19 Lenggeng,N.19,263.9,266,-2.1,-0.79
+Negeri Sembilan,P.115 Tampin,P.115,N.11 Repah,N.11,186.5,188,-1.5,-0.8
+Selangor,P.095 PJ Selatan,P.095,N.27 Bukit Gasing,N.27,10.9,11,-0.1,-0.91
+Pahang,P.081 Maran,P.081,N.22 Hulu Jempul,N.22,424.1,428,-3.9,-0.91
+Perak,P.057 Taiping,P.057,N.14 Pokok Assam,N.14,43.6,44,-0.4,-0.91
+Terengganu,P.034 Setiu,P.034,N.06 Permaisuri,N.06,698.6,705,-6.4,-0.91
+Melaka,P.122 Batu Berendam,P.122,N.13 Ayer Keroh,N.13,42.6,43,-0.4,-0.93
+Kedah,P.006 Kubang Pasu,P.006,N.06 Jitra,N.06,168.4,170,-1.6,-0.94
+Kedah,P.007 Padang Terap,P.007,N.08 Pedu,N.08,688.4,695,-6.6,-0.95
+Negeri Sembilan,P.113 Jelebu,P.113,N.04 Sungai Lui,N.04,281.3,284,-2.7,-0.95
+Perak,P.068 Kampar,P.068,N.38 Kuala Dipang,N.38,58.4,59,-0.6,-1.02
+Pahang,P.084 Temerluh,P.084,N.32 Semantan,N.32,252.4,255,-2.6,-1.02
+Perak,P.052 Gerik,P.052,N.01 Pengkalan Hulu,N.01,641.3,648,-6.7,-1.03
+Negeri Sembilan,P.118 Rasah,P.118,N.24 Temiang,N.24,56.4,57,-0.6,-1.05
+Selangor,P.092 Ampang Jaya,P.092,N.21 Lembah Jaya,N.21,18.8,19,-0.2,-1.05
+Perak,P.058 Chenderoh,P.058,N.17 Lubok Merbau,N.17,293.8,297,-3.2,-1.08
+Perak,P.059 Sungai Siput,P.059,N.19 Jalong,N.19,466.8,472,-5.2,-1.1
+Selangor,P.100 Klang,P.100,N.41 Bandar Klang,N.41,16.8,17,-0.2,-1.18
+Terengganu,P.037 Marang,P.037,N.18 Bukit Payung,N.18,32.6,33,-0.4,-1.21
+Pulau Pinang,P.051 Balik Pulau,P.051,N.32 Telok Kumbar,N.32,48.4,49,-0.6,-1.22
+Negeri Sembilan,P.116 Kuala Pilah,P.116,N.14 Senaling,N.14,110.6,112,-1.4,-1.25
+Terengganu,P.037 Marang,P.037,N.19 Ru Rendang,N.19,122.4,124,-1.6,-1.29
+Perak,P.065 Beruas,P.065,N.32 Pantai Remis,N.32,232.8,236,-3.2,-1.36
+Negeri Sembilan,P.116 Kuala Pilah,P.116,N.13 Juasseh,N.13,203.2,206,-2.8,-1.36
+Perak,P.064 Kuala Kangsar,P.064,N.30 Manong,N.30,313.6,318,-4.4,-1.38
+Kelantan,P.019 Tumpat,P.019,N.03 Pasir Pekan,N.03,33.5,34,-0.5,-1.47
+Terengganu,P.035 Kuala Nerus,P.035,N.10 Teluk Pasu,N.10,65.0,66,-1.0,-1.52
+Pahang,P.085 Rompin,P.085,N.36 Bukit Ibam,N.36,1954.0,1985,-31.0,-1.56
+Kelantan,P.031 Kuala Krai,P.031,N.38 Guchil,N.38,194.9,198,-3.1,-1.57
+Pahang,P.075 Lipis,P.075,N.03 Padang Tengku,N.03,2124.3,2159,-34.7,-1.61
+Kedah,P.014 Merbok,P.014,N.25 Gurun,N.25,205.6,209,-3.4,-1.63
+Negeri Sembilan,P.117 Seremban,P.117,N.22 Lobak,N.22,5.9,6,-0.1,-1.67
+Pulau Pinang,P.043 Bagan,P.043,N.09 Perai,N.09,17.7,18,-0.3,-1.67
+Pulau Pinang,P.043 Bagan,P.043,N.08 Bagan Jermal,N.08,5.9,6,-0.1,-1.67
+Kelantan,P.023 Rantau Panjang,P.023,N.14 Gual Periok,N.14,157.3,160,-2.7,-1.69
+Negeri Sembilan,P.116 Kuala Pilah,P.116,N.16 Pilah,N.16,54.0,55,-1.0,-1.82
+Kelantan,P.019 Tumpat,P.019,N.01 Pengkalan Kubor,N.01,45.1,46,-0.9,-1.96
+Johor,P.132 Bakri,P.132,N.15 Bukit Naning,N.15,205.8,210,-4.2,-2.0
+Kelantan,P.032 Gua Musang,P.032,N.41 Dabong,N.41,1121.8,1145,-23.2,-2.03
+Kedah,P.015 Sungai Petani,P.015,N.28 Bakar Arang,N.28,23.5,24,-0.5,-2.08
+Kelantan,P.028 Pasir Puteh,P.028,N.31 Gaal,N.31,100.8,103,-2.2,-2.14
+Perak,P.073 Telok Intan,P.073,N.49 Pasir Bedamar,N.49,36.2,37,-0.8,-2.16
+Pulau Pinang,P.051 Balik Pulau,P.051,N.31 Bayan Lepas,N.31,31.3,32,-0.7,-2.19
+Pahang,P.081 Maran,P.081,N.24 Cenur,N.24,528.8,541,-12.2,-2.26
+Pahang,P.075 Lipis,P.075,N.01 Cameron Highlands,N.01,310.7,318,-7.3,-2.3
+Pahang,P.079 Paya Besar,P.079,N.16 Lepar,N.16,1072.7,1098,-25.3,-2.3
+Selangor,P.092 Ampang Jaya,P.092,N.20 Pandan,N.20,12.7,13,-0.3,-2.31
+Pulau Pinang,P.046 Nibong Tebal,P.046,N.18 Sungai Acheh,N.18,44.9,46,-1.1,-2.39
+Pahang,P.078 Kuantan,P.078,N.14 Indera Mahkota,N.14,88.8,91,-2.2,-2.42
+Selangor,P.094 PJ Utara,P.094,N.25 Damansara Utama,N.25,11.7,12,-0.3,-2.5
+Johor,P.132 Bakri,P.132,N.16 Maharani,N.16,19.5,20,-0.5,-2.5
+Johor,P.133 Muar,P.133,N.18 Sungai Balang,N.18,215.3,221,-5.7,-2.58
+Negeri Sembilan,P.117 Seremban,P.117,N.21 Ampangan,N.21,26.3,27,-0.7,-2.59
+Kedah,P.017 Padang Serai,P.017,N.34 Lunas,N.34,77.9,80,-2.1,-2.62
+Pahang,P.081 Maran,P.081,N.23 Jengka,N.23,289.6,298,-8.4,-2.82
+Perak,P.060 Tambun,P.060,N.20 Manjoi,N.20,139.9,144,-4.1,-2.85
+Selangor,P.091 Gombak,P.091,N.18 Hulu Kelang,N.18,64.1,66,-1.9,-2.88
+Terengganu,P.036 Kuala Terengganu,P.036,N.15 Ladang,N.15,12.6,13,-0.4,-3.08
+Melaka,P.124 Jasin,P.124,N.25 Sungai Rambai,N.25,62.0,64,-2.0,-3.12
+Pulau Pinang,P.051 Balik Pulau,P.051,N.33 Telok Bahang,N.33,91.9,95,-3.1,-3.26
+Melaka,P.123 Kota Melaka,P.123,N.17 Durian Daun,N.17,2.9,3,-0.1,-3.33
+Pulau Pinang,P.050 Bayan Baru,P.050,N.30 Batu Uban,N.30,16.3,17,-0.7,-4.12
+Terengganu,P.035 Kuala Nerus,P.035,N.12 Bukit Tunggal,N.12,15.3,16,-0.7,-4.37
+Perak,P.054 Parit Buntar,P.054,N.07 Kuala Kurau,N.07,61.9,65,-3.1,-4.77
+Perak,P.057 Taiping,P.057,N.15 Aulong,N.15,23.8,25,-1.2,-4.8
+Melaka,P.123 Kota Melaka,P.123,N.20 Alai,N.20,23.7,25,-1.3,-5.2
+Pahang,P.078 Kuantan,P.078,N.13 Teruntum,N.13,41.7,44,-2.3,-5.23
+Johor,P.143 Gelang Patah,P.143,N.38 Skudai,N.38,83.1,88,-4.9,-5.57
+Kelantan,P.026 Peringat,P.026,N.24 Ketereh,N.24,55.5,59,-3.5,-5.93
+Kedah,P.010 Kuala Kedah,P.010,N.17 Pengkalan Kundor,N.17,89.1,95,-5.9,-6.21
+Johor,P.141 Johor Bahru,P.141,N.34 Stulang,N.34,15.0,16,-1.0,-6.25
+Terengganu,P.036 Kuala Terengganu,P.036,N.16 Batu Buruk,N.16,19.5,21,-1.5,-7.14
+Pulau Pinang,P.048 Tanjong,P.048,N.23 Pengkalan Kota,N.23,0.9,1,-0.1,-10.0
+Selangor,P.094 PJ Utara,P.094,N.26 Kampung Tunku,N.26,3.5,4,-0.5,-12.5
+Kelantan,P.020 Pengkalan Chepa,P.020,N.05 Chempaka,N.05,26.1,30,-3.9,-13.0
+Perak,P.062 Ipoh Barat,P.062,N.26 Buntong,N.26,5.6,7,-1.4,-20.0
+Kelantan,P.020 Pengkalan Chepa,P.020,N.04 Kijang,N.04,17.9,23,-5.1,-22.17
+Kedah,P.004 Langkawi,P.004,N.01 Padang Matsirat,N.01,234.2,305,-70.8,-23.21
+Pulau Pinang,P.048 Tanjong,P.048,N.24 Kampong Kolam,N.24,1.5,2,-0.5,-25.0
+Pulau Pinang,P.049 Jelutong,P.049,N.26 Sungai Pinang,N.26,2.2,3,-0.8,-26.67
+Pahang,P.084 Temerluh,P.084,N.34 Guai,N.34,379.1,737,-357.9,-48.56
+Perak,P.071 Lumut,P.071,N.44 Pangkor,N.44,139.1,284,-144.9,-51.02

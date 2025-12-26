@@ -1,0 +1,49 @@
+state,parlimen,code_parlimen,dun,code_dun,area_compute,area_gazette,diff,diff_perc
+Sabah,P.149 Tuaran,P.149,N.10 Sulaman,N.10,191.7,152,39.7,26.12
+Sabah,P.146 Marudu,P.146,N.02 Kudat,N.02,267.5,229,38.5,16.81
+Sabah,P.161 Sandakan,P.161,N.38 Karamunting,N.38,5.8,5,0.8,16.0
+Sabah,P.165 Tawau,P.165,N.48 Sri Tanjong,N.48,28.7,25,3.7,14.8
+Sabah,P.150 Gaya,P.150,N.13 Likas,N.13,117.1,102,15.1,14.8
+Sabah,P.151 Tanjong Aru,P.151,N.15 Sembulan,N.15,29.7,26,3.7,14.23
+Sabah,P.153 Papar,P.153,N.18 Kawang,N.18,349.7,315,34.7,11.02
+Sabah,P.160 Libaran,P.160,N.34 Sungai Sibuga,N.34,382.9,352,30.9,8.78
+Sabah,P.148 Kota Belud,P.148,N.08 Usukan,N.08,110.7,102,8.7,8.53
+Sabah,P.149 Tuaran,P.149,N.09 Tamparuli,N.09,219.6,208,11.6,5.58
+Sabah,P.165 Tawau,P.165,N.47 Kalabakan,N.47,4176.8,3972,204.8,5.16
+Sabah,P.148 Kota Belud,P.148,N.06 Tempasuk,N.06,457.4,437,20.4,4.67
+Sabah,P.158 Tenom,P.158,N.30 Melalap,N.30,982.0,943,39.0,4.14
+Sabah,P.158 Tenom,P.158,N.31 Kemabong,N.31,1924.2,1854,70.2,3.79
+Sabah,P.163 Silam,P.163,N.42 Lahad Datu,N.42,6779.9,6545,234.9,3.59
+Sabah,P.146 Marudu,P.146,N.01 Banggi,N.01,1304.2,1260,44.2,3.51
+Sabah,P.160 Libaran,P.160,N.35 Sekong,N.35,336.4,326,10.4,3.19
+Sabah,P.154 Beaufort,P.154,N.21 Kuala Penyu,N.21,495.7,484,11.7,2.42
+Sabah,P.159 Beluran,P.159,N.33 Labuk,N.33,4343.5,4258,85.5,2.01
+Sabah,P.162 Kinabatangan,P.162,N.40 Kuamut,N.40,13116.3,12913,203.3,1.57
+Sabah,P.146 Marudu,P.146,N.03 Bengkoka,N.03,823.6,815,8.6,1.06
+Sabah,P.156 Kinabalu,P.156,N.26 Ranau,N.26,1939.3,1922,17.3,0.9
+Sabah,P.165 Tawau,P.165,N.46 Merotai,N.46,647.1,642,5.1,0.79
+Sabah,P.159 Beluran,P.159,N.32 Sugut,N.32,3653.9,3642,11.9,0.33
+Sabah,P.164 Semporna,P.164,N.45 Balung,N.45,1346.7,1349,-2.3,-0.17
+Sabah,P.156 Kinabalu,P.156,N.25 Kundasang,N.25,1831.2,1845,-13.8,-0.75
+Sabah,P.147 Bandau,P.147,N.04 Matunggong,N.04,790.3,797,-6.7,-0.84
+Sabah,P.157 Keningau,P.157,N.29 Pensiangan,N.29,7372.9,7437,-64.1,-0.86
+Sabah,P.154 Beaufort,P.154,N.20 Bongawan,N.20,597.5,604,-6.5,-1.08
+Sabah,P.157 Keningau,P.157,N.27 Tambunan,N.27,1404.4,1425,-20.6,-1.45
+Sabah,P.155 Sipitang,P.155,N.23 Lumadan,N.23,997.2,1013,-15.8,-1.56
+Sabah,P.155 Sipitang,P.155,N.24 Sindumin,N.24,2672.3,2715,-42.7,-1.57
+Sabah,P.149 Tuaran,P.149,N.11 Kiulu,N.11,870.6,885,-14.4,-1.63
+Sabah,P.162 Kinabatangan,P.162,N.39 Sukau,N.39,6015.4,6132,-116.6,-1.9
+Sabah,P.148 Kota Belud,P.148,N.07 Kadamaian,N.07,821.8,842,-20.2,-2.4
+Sabah,P.147 Bandau,P.147,N.05 Tandek,N.05,1436.5,1474,-37.5,-2.54
+Sabah,P.164 Semporna,P.164,N.43 Sulabayan,N.43,229.3,236,-6.7,-2.84
+Sabah,P.154 Beaufort,P.154,N.22 Klias,N.22,555.7,575,-19.3,-3.36
+Sabah,P.157 Keningau,P.157,N.28 Bingkor,N.28,1467.0,1535,-68.0,-4.43
+Sabah,P.153 Papar,P.153,N.19 Pantai Manis,N.19,400.6,422,-21.4,-5.07
+Sabah,P.152 Penampang,P.152,N.16 Moyog,N.16,416.3,440,-23.7,-5.39
+Sabah,P.150 Gaya,P.150,N.12 Inanam,N.12,187.7,204,-16.3,-7.99
+Sabah,P.164 Semporna,P.164,N.44 Senallang,N.44,299.4,335,-35.6,-10.63
+Sabah,P.152 Penampang,P.152,N.17 Petagas,N.17,37.9,43,-5.1,-11.86
+Sabah,P.163 Silam,P.163,N.41 Kunak,N.41,1573.1,1923,-349.9,-18.2
+Sabah,P.151 Tanjong Aru,P.151,N.14 Api-Api,N.14,14.7,18,-3.3,-18.33
+Sabah,P.161 Sandakan,P.161,N.37 Tanjong Papat,N.37,3.9,5,-1.1,-22.0
+Sabah,P.161 Sandakan,P.161,N.36 Elopura,N.36,16.2,26,-9.8,-37.69
