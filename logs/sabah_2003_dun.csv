@@ -1,0 +1,61 @@
+state,parlimen,code_parlimen,dun,code_dun,area_compute,area_gazette,diff,diff_perc
+Sabah,P.176 Kimanis,P.176,N.23 Bongawan,N.23,677.4,408,269.4,66.03
+Sabah,P.190 Tawau,P.190,N.57 Sri Tanjong,N.57,45.4,30,15.4,51.33
+Sabah,P.180 Keningau,P.180,N.34 Liawan,N.34,395.8,277,118.8,42.89
+Sabah,P.171 Sepanggar,P.171,N.12 Karambunai,N.12,83.9,69,14.9,21.59
+Sabah,P.170 Tuaran,P.170,N.10 Sulaman,N.10,177.6,148,29.6,20.0
+Sabah,P.174 Penampang,P.174,N.20 Moyog,N.20,463.3,403,60.3,14.96
+Sabah,P.177 Beaufort,P.177,N.26 Kuala Penyu,N.26,486.0,425,61.0,14.35
+Sabah,P.182 Pensiangan,P.182,N.37 Sook,N.37,2679.5,2388,291.5,12.21
+Sabah,P.175 Papar,P.175,N.21 Kawang,N.21,510.4,456,54.4,11.93
+Sabah,P.178 Sipitang,P.178,N.27 Lumadan,N.27,978.4,880,98.4,11.18
+Sabah,P.190 Tawau,P.190,N.55 Balung,N.55,1095.6,1002,93.6,9.34
+Sabah,P.179 Ranau,P.179,N.30 Karanaan,N.30,191.1,177,14.1,7.97
+Sabah,P.187 Kinabatangan,P.187,N.48 Sukau,N.48,5300.1,4959,341.1,6.88
+Sabah,P.180 Keningau,P.180,N.32 Tambunan,N.32,1422.6,1338,84.6,6.32
+Sabah,P.168 Kota Marudu,P.168,N.04 Matunggong,N.04,841.7,797,44.7,5.61
+Sabah,P.181 Tenom,P.181,N.35 Melalap,N.35,637.1,605,32.1,5.31
+Sabah,P.191 Kalabakan,P.191,N.60 Sebatik,N.60,1553.8,1488,65.8,4.42
+Sabah,P.191 Kalabakan,P.191,N.59 Tanjong Batu,N.59,2314.8,2222,92.8,4.18
+Sabah,P.183 Beluran,P.183,N.39 Sugut,N.39,3619.1,3481,138.1,3.97
+Sabah,P.169 Kota Belud,P.169,N.06 Tempasuk,N.06,451.7,436,15.7,3.6
+Sabah,P.184 Libaran,P.184,N.41 Gum-Gum,N.41,782.3,762,20.3,2.66
+Sabah,P.189 Semporna,P.189,N.54 Bugaya,N.54,555.6,542,13.6,2.51
+Sabah,P.168 Kota Marudu,P.168,N.05 Tandek,N.05,1400.0,1374,26.0,1.89
+Sabah,P.189 Semporna,P.189,N.53 Senallang,N.53,344.2,338,6.2,1.83
+Sabah,P.170 Tuaran,P.170,N.11 Kiulu,N.11,800.1,791,9.1,1.15
+Sabah,P.188 Silam,P.188,N.49 Tungku,N.49,4012.3,3973,39.3,0.99
+Sabah,P.189 Semporna,P.189,N.52 Sulabayan,N.52,235.7,234,1.7,0.73
+Sabah,P.169 Kota Belud,P.169,N.08 Usukan,N.08,98.7,98,0.7,0.71
+Sabah,P.182 Pensiangan,P.182,N.38 Nabawan,N.38,5970.8,5936,34.8,0.59
+Sabah,P.181 Tenom,P.181,N.36 Kemabong,N.36,1800.4,1797,3.4,0.19
+Sabah,P.169 Kota Belud,P.169,N.07 Kadamaian,N.07,831.6,831,0.6,0.07
+Sabah,P.178 Sipitang,P.178,N.28 Sindumin,N.28,2728.8,2727,1.8,0.07
+Sabah,P.187 Kinabatangan,P.187,N.47 Kuamut,N.47,12888.4,12917,-28.6,-0.22
+Sabah,P.170 Tuaran,P.170,N.09 Tamparuli,N.09,206.6,208,-1.4,-0.67
+Sabah,P.188 Silam,P.188,N.50 Lahad Datu,N.50,3128.4,3166,-37.6,-1.19
+Sabah,P.183 Beluran,P.183,N.40 Labuk,N.40,4036.5,4086,-49.5,-1.21
+Sabah,P.179 Ranau,P.179,N.29 Kundasang,N.29,1686.1,1711,-24.9,-1.46
+Sabah,P.186 Sandakan,P.186,N.45 Elopura,N.45,30.2,31,-0.8,-2.58
+Sabah,P.179 Ranau,P.179,N.31 Paginatan,N.31,1837.9,1896,-58.1,-3.06
+Sabah,P.167 Kudat,P.167,N.01 Banggi,N.01,1282.1,1325,-42.9,-3.24
+Sabah,P.191 Kalabakan,P.191,N.58 Merotai,N.58,750.5,778,-27.5,-3.53
+Sabah,P.171 Sepanggar,P.171,N.13 Inanam,N.13,193.1,202,-8.9,-4.41
+Sabah,P.184 Libaran,P.184,N.42 Sungai Sibuga,N.42,79.1,83,-3.9,-4.7
+Sabah,P.167 Kudat,P.167,N.02 Tanjong Kapor,N.02,218.1,230,-11.9,-5.17
+Sabah,P.167 Kudat,P.167,N.03 Pitas,N.03,826.3,888,-61.7,-6.95
+Sabah,P.188 Silam,P.188,N.51 Kunak,N.51,1009.1,1109,-99.9,-9.01
+Sabah,P.177 Beaufort,P.177,N.25 Klias,N.25,426.0,500,-74.0,-14.8
+Sabah,P.185 Batu Sapi,P.185,N.43 Sekong,N.43,470.2,552,-81.8,-14.82
+Sabah,P.185 Batu Sapi,P.185,N.44 Karamunting,N.44,5.7,7,-1.3,-18.57
+Sabah,P.173 Putatan,P.173,N.17 Tanjong Aru,N.17,36.0,47,-11.0,-23.4
+Sabah,P.176 Kimanis,P.176,N.24 Membakut,N.24,286.8,378,-91.2,-24.13
+Sabah,P.173 Putatan,P.173,N.18 Petagas,N.18,17.4,23,-5.6,-24.35
+Sabah,P.190 Tawau,P.190,N.56 Apas,N.56,295.4,402,-106.6,-26.52
+Sabah,P.186 Sandakan,P.186,N.46 Tanjong Papat,N.46,4.3,6,-1.7,-28.33
+Sabah,P.172 Kota Kinabalu,P.172,N.14 Likas,N.14,14.3,20,-5.7,-28.5
+Sabah,P.180 Keningau,P.180,N.33 Bingkor,N.33,525.3,861,-335.7,-38.99
+Sabah,P.174 Penampang,P.174,N.19 Kapayan,N.19,17.5,32,-14.5,-45.31
+Sabah,P.172 Kota Kinabalu,P.172,N.16 Luyang,N.16,8.1,19,-10.9,-57.37
+Sabah,P.175 Papar,P.175,N.22 Pantai Manis,N.22,80.5,225,-144.5,-64.22
+Sabah,P.172 Kota Kinabalu,P.172,N.15 Api-Api,N.15,4.9,15,-10.1,-67.33
