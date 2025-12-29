@@ -29,6 +29,13 @@
       <SimpleField name="dun" type="string"/>
       <SimpleField name="code_dun" type="string"/>
     </Schema>
+    <Schema id="sarawak_2005_dun.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+      <SimpleField name="dun" type="string"/>
+      <SimpleField name="code_dun" type="string"/>
+    </Schema>
     <Document id="sarawak_2005_dun">
       <name>sarawak_2005_dun</name>
       <Placemark id="sarawak_2005_dun.1">
@@ -11413,7 +11420,7 @@
             <SimpleData name="parlimen">P.222 Lawas</SimpleData>
             <SimpleData name="code_parlimen">P.222</SimpleData>
             <SimpleData name="dun"><![CDATA[N.70 Ba'kelalan]]></SimpleData>
-            <SimpleData name="code_dun">N.71</SimpleData>
+            <SimpleData name="code_dun">N.70</SimpleData>
           </SchemaData>
         </ExtendedData>
         <Polygon>

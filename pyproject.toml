@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "boto3>=1.42.14",
+    "cartogram>=1.0.0",
     "dotenv>=0.9.9",
     "duckdb>=1.4.3",
     "fiona>=1.10.1",
@@ -16,4 +17,5 @@ dependencies = [
     "pandas>=2.3.3",
     "plotly>=6.5.0",
     "pyarrow>=22.0.0",
+    "seaborn>=0.13.2",
 ]

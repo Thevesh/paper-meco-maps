@@ -29,6 +29,13 @@
       <SimpleField name="dun" type="string"/>
       <SimpleField name="code_dun" type="string"/>
     </Schema>
+    <Schema id="SBH_SE-14.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+      <SimpleField name="dun" type="string"/>
+      <SimpleField name="code_dun" type="string"/>
+    </Schema>
     <Folder>
       <name>SBH_SE_14</name>
       <Placemark id="SBH_SE_14.1">

@@ -49,6 +49,14 @@
       <SimpleField name="code_dun" type="string"/>
       <SimpleField name="voters_total" type="int"/>
     </Schema>
+    <Schema id="JHR_SE-03.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+      <SimpleField name="dun" type="string"/>
+      <SimpleField name="code_dun" type="string"/>
+      <SimpleField name="voters_total" type="int"/>
+    </Schema>
     <Folder>
       <name>JHR_SE_03</name>
       <Placemark id="JHR_SE_03.1">

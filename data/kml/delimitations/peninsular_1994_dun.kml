@@ -43,6 +43,13 @@
       <SimpleField name="dun" type="string"/>
       <SimpleField name="code_dun" type="string"/>
     </Schema>
+    <Schema id="peninsular_1994_dun.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+      <SimpleField name="dun" type="string"/>
+      <SimpleField name="code_dun" type="string"/>
+    </Schema>
     <Document id="peninsular_1994_dun">
       <name>peninsular_1994_dun</name>
       <Placemark id="peninsular_1994_dun.1">

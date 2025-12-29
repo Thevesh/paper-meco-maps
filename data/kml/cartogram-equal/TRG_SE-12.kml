@@ -29,6 +29,13 @@
       <SimpleField name="dun" type="string"/>
       <SimpleField name="code_dun" type="string"/>
     </Schema>
+    <Schema id="TRG_SE-12.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+      <SimpleField name="dun" type="string"/>
+      <SimpleField name="code_dun" type="string"/>
+    </Schema>
     <Folder>
       <name>TRG_SE_12</name>
       <Placemark id="TRG_SE_12.1">
