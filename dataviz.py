@@ -497,10 +497,6 @@ def derived_v_reported():
 
 
 if __name__ == "__main__":
-    print("\nPlotting heatmap of N Parliaments by State at each delimitation round...")
-    heatmap_n_parlimen()
-    print("\nPlotting heatmap of N DUNs by State at each delimitation round...")
-    heatmap_n_dun()
     print("\nPlotting implied coastline of Penang...")
     penang_coastline()
     print("\nPlotting Semporna as of latest delimitation (2019)...")
@@ -511,4 +507,8 @@ if __name__ == "__main__":
     topology_preserving_cartogram()
     print("\nPlotting derived area vs reported area of DUNs...")
     derived_v_reported()
+    print("\nPlotting heatmap of N Parliaments by State at each delimitation round...")
+    heatmap_n_parlimen()
+    print("\nPlotting heatmap of N DUNs by State at each delimitation round...")
+    heatmap_n_dun()
     print("\n✨✨✨ DONE ✨✨✨\n")

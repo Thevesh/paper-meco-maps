@@ -41,7 +41,7 @@ renv/sandbox/
 *.toc
 *.bst
 *.cls
-tex/*.pdf
+tex/out/*
 
 
 # C extensions
