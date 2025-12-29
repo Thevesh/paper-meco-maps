@@ -1,20 +1,24 @@
-[![Preprint](https://img.shields.io/badge/project-paper-lightgrey)](https://doi.org/10.48550/arxiv.2505.06564)
-[![Cite This Work](https://img.shields.io/badge/citation-notready-red)](#Citation)
-[![Python](https://img.shields.io/badge/python-3.11+-pink.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-CC0_1.0-blue.svg)](LICENSE)
+[![Preprint](https://img.shields.io/badge/Preprint-arXiv-orange)](#)
+[![Code DOI](https://img.shields.io/badge/Code%20Archive-Zenodo-blue)](#)
+[![Data Archive](https://img.shields.io/badge/Data%20Archive-Harvard%20Dataverse-green)](#)
+[![Cite This](https://img.shields.io/badge/Cite%20This-BibTeX-lightgrey)](#Citation)
+[![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](LICENSE)
 
-# Malaysian Election Corpus (MECo): Election Boundaries since 1955
+# Malaysian Election Corpus (MECo): Electoral Maps and Cartograms since 1955
+
+Electoral boundaries in Malaysia are not publicly available in machine-readable form. This prevents rigorous analysis of geography-centric issues such as malapportionment and gerrymandering, and constrains spatial perspectives on electoral outcomes. We present the second component of the Malaysian Election Corpus (MECo), an open-access collection of digital electoral boundaries covering all 19 approved delimitation exercises in Malaysia's history, from the first set of Malayan boundaries in 1954 until the 2019 Sabah delimitation. We also auto-generate election-time maps for all federal and state elections up to 2025, and include equal-area and electorate-weighted cartograms to support deeper geospatial analysis. This is the first complete, publicly-available, and machine-readable record of Malaysia's electoral boundaries, and fills a critical gap in the country's electoral data infrastructure.
 
 ## Repository Structure
 
 | Directory/File                  | Description                                                              |
 |---------------------------------|--------------------------------------------------------------------------|
-| `src-geo/`                     | Geospatial data (GeoJSON + shapefile + XML)                                  |
+| `data/`                     | Geospatial data (GeoJSON, TopoJSON, GeoParquet, FlatGeobuf, KML)                                  |
 | `tex/`                          | LaTeX files for manuscript generation                                    |
+| `compile_*.py`                   | Scripts to compile and validate all datases from raw delimitations exported as GeoJSON |
+| `compile_*.r` | Scripts to generate Dorling cartograms |
+| `dataviz.py`                    | Generate summary visualisations                                          |
 | `helper.py`                     | Helper functions used across scripts                                     |
-| `requirements.txt`              | Python dependencies                                                     |
-| `README.md`                     | This file                                                                |
-| `LICENSE`                       | License file (CC0)                                                       |
+
 
 ## Features
 
@@ -25,19 +29,24 @@
 
 1. Clone the repository:
 ```bash
-git clone git@github.com:thevesh/paper-meco-maps.git
-cd paper-meco-maps
+git clone git@github.com:thevesh/paper-meco-results.git
+cd paper-meco-results
 ```
 
-2. Create and activate a virtual environment:
+2. This project uses `uv` to manage Python dependencies.
 ```bash
-python3 -m venv .venv
+uv venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+uv sync
 ```
 
-3. Install dependencies:
+3. Compile data and dashboards:
 ```bash
-pip install -r requirements.txt
+python3 compile_0_initial.py
+python3 compile_1_elections.py
+# --- Run cartogram-generation in R ---
+python3 compile_3_formats.py
+python3 dataviz.py
 ```
 
 ## Citation
@@ -49,4 +58,4 @@ If you use this work, please cite it as:
 
 ## Questions / Suggestions
 
-Contributions are not welcome, in order to maintain appropriate provenance for academic credit. However, you are free to open an issue!
+If you want to improve the quality of the underlying data, please fork this repo, then make a pull request for review. However, do consider opening an issue to discuss your desired changes first!
