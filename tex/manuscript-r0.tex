@@ -272,7 +272,7 @@ That having been said, our approach does not constrain users who wish to use a d
 All datasets (Table~\ref{tab:data_records}) are published on Harvard Dataverse,\cite{meco2_dataset} which serves as the canonical archive. For convenience, the exact same datasets are also mirrored on:
 
 \begin{enumbul}
-	\item \textbf{Zenodo}\cite{meco_codebase} (\href{https://doi.org/10.5281/zenodo.???}{doi.org/10.5281/zenodo.???})\\
+	\item \textbf{Zenodo}\cite{meco2_codebase} (\href{https://doi.org/10.5281/zenodo.???}{doi.org/10.5281/zenodo.???})\\
 	Provides code and raw source files, in addition to datasets.
 
 	\item \textbf{GitHub} (\href{https://github.com/Thevesh/paper-meco-maps}{github.com/Thevesh/paper-meco-maps})\\
@@ -405,13 +405,24 @@ Finally, while rigorous validation has been applied (see Technical Validation), 
 
 \section*{Data Availability}
 
-All datasets described in this paper are published on Harvard Dataverse\cite{meco2_dataset} under a CC0 license. For convenience, the exact same datasets are also mirrored in repositories on Zenodo\cite{meco_codebase} and \href{https://github.com/Thevesh/paper-meco-maps}{GitHub}. In addition to the datasets, both contain the code used for processing, validation, and analysis; we use GitHub to version-control active development and maintenance, with substantial updates released on Zenodo.
+All datasets described in this paper are published on Harvard Dataverse\cite{meco2_dataset} under a CC0 license. For convenience, the exact same datasets are also mirrored in repositories on Zenodo\cite{meco2_codebase} and \href{https://github.com/Thevesh/paper-meco-maps}{GitHub}. In addition to the datasets, both contain the code used for processing, validation, and analysis; we use GitHub to version-control active development and maintenance, with substantial updates released on Zenodo.
 
 \section*{Code Availability}
 
-Delimitations were drawn by hand using QGIS. All processing and validation were done in Python, except for cartogram-generation, which was done in R. The full source code is publicly available under a CC0 license via Zenodo\cite{meco_codebase} and \href{https://github.com/Thevesh/paper-meco-maps}{GitHub}.
+Delimitations were drawn by hand using QGIS. All processing and validation were done in Python, except for cartogram-generation, which was done in R. The full source code is publicly available under a CC0 license via Zenodo\cite{meco2_codebase} and \href{https://github.com/Thevesh/paper-meco-maps}{GitHub}.
 
 \begin{filecontents*}[overwrite]{mybib.bib}
+	@data{meco2_dataset,
+		author = {Thevananthan, Thevesh and Prakash Chacko, Danesh},
+		publisher = {Harvard Dataverse},
+		title = {{The Malaysian Election Corpus (MECo): Electoral Maps and Cartograms since 1954}},
+		UNF = {UNF:6:gfjrObr8AOVbJVBxOEFx1g==},
+		year = {2025},
+		version = {V1},
+		doi = {10.7910/DVN/DVFK54},
+		howpublished = {\href{https://doi.org/10.7910/DVN/DVFK54}{doi.org/10.7910/DVN/DVFK54}}
+	}
+
 	@article{openshaw1984modifiable,
 		title={The modifiable areal unit problem},
 		author={Openshaw, Stan},
@@ -525,7 +536,7 @@ Delimitations were drawn by hand using QGIS. All processing and validation were 
 \endgroup
 
 \section*{Acknowledgements}
-TT thanks Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback and suggestions on the dataset and manuscript. DPC thanks (anyone to thank?). Finally, we thank the EC for granting access to physical delimitation reports via \textit{Pusat Sumber SPR}.
+TT thanks Rosmadi Fauzi and Zulkanain Abdul Rahman for their helpful feedback and suggestions on the dataset and manuscript. We are grateful to the EC for granting access to physical election and delimitation reports via \textit{Pusat Sumber SPR}.
 
 \section*{Author Contributions}
 TT and DPC both contributed equally to this work.
