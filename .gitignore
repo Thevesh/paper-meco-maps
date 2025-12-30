@@ -42,6 +42,7 @@ renv/sandbox/
 *.bst
 *.cls
 tex/out/*
+tex/cover-letter.tex
 
 
 # C extensions
