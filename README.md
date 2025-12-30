@@ -53,7 +53,7 @@ python3 dataviz.py
 
 If you use this work, please cite it as:
 
-> Thevesh Thevananthan and Danesh Prakash Chacko, "The Malaysian Election Corpus (MECo): Election Boundaries from 1955 to 2018", 2025.
+> Thevesh Thevananthan and Danesh Prakash Chacko, "The Malaysian Election Corpus (MECo): Electoral Maps and Cartograms from 1954 to 2025", 2025.
 
 
 ## Questions / Suggestions
