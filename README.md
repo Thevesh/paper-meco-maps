@@ -1,5 +1,5 @@
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-orange)](#)
-[![Code DOI](https://img.shields.io/badge/Code%20Archive-Zenodo-blue)](#)
+[![Code DOI](https://img.shields.io/badge/Code%20Archive-Zenodo-blue)](https://doi.org/10.5281/zenodo.18093017)
 [![Data Archive](https://img.shields.io/badge/Data%20Archive-Harvard%20Dataverse-green)](https://doi.org/10.7910/DVN/DVFK54)
 [![Cite This](https://img.shields.io/badge/Cite%20This-BibTeX-lightgrey)](#Citation)
 [![License](https://img.shields.io/badge/License-CC0_1.0-lightgrey)](LICENSE)
