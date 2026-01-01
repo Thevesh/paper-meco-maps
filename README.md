@@ -53,7 +53,19 @@ python3 dataviz.py
 
 If you use this work, please cite it as:
 
-> Thevesh Thevananthan and Danesh Prakash Chacko, "The Malaysian Election Corpus (MECo): Electoral Maps and Cartograms from 1954 to 2025", 2025.
+> Thevananthan, T. and Chacko, D. P., The Malaysian Election Corpus (MECo): Electoral Maps and Cartograms from 1954 to 2025. arXiv preprint (2025). https://doi.org/10.48550/arXiv.2512.24211
+
+``` BibTeX
+@misc{thevananthan2025meco2,
+      title={The Malaysian Election Corpus (MECo): Electoral Maps and Cartograms from 1954 to 2025}, 
+      author={Thevesh Thevananthan and Danesh Prakash Chacko},
+      year={2025},
+      eprint={2512.24211},
+      archivePrefix={arXiv},
+      primaryClass={stat.AP},
+      url={https://arxiv.org/abs/2512.24211}, 
+}
+```
 
 
 ## Questions / Suggestions
