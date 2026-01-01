@@ -1,4 +1,4 @@
-[![Preprint](https://img.shields.io/badge/Preprint-arXiv-orange)](#)
+[![Preprint](https://img.shields.io/badge/Preprint-arXiv-orange)](https://arxiv.org/abs/2512.24211)
 [![Code DOI](https://img.shields.io/badge/Code%20Archive-Zenodo-blue)](https://doi.org/10.5281/zenodo.18093017)
 [![Data Archive](https://img.shields.io/badge/Data%20Archive-Harvard%20Dataverse-green)](https://doi.org/10.7910/DVN/DVFK54)
 [![Cite This](https://img.shields.io/badge/Cite%20This-BibTeX-lightgrey)](#Citation)
