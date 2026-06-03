@@ -93,7 +93,7 @@ def validate_elections():
 
     df = pd.concat([df1, df2], axis=0, ignore_index=True)
     df["geo"] = 1
-    rf = pd.read_parquet("https://public.electiondata.my/results/consol_stats.parquet")
+    rf = pd.read_parquet("https://lake.electiondata.my/results_headline/consol_stats.parquet")
     rf = rf[~rf.election.str.contains("BY-")][["election", "state", "seat", "date", "voters_total"]]
 
     cf = pd.merge(df, rf, on=["election", "state", "seat"], how="left")

@@ -41,6 +41,14 @@
       <SimpleField name="code_dun" type="string"/>
       <SimpleField name="voters_total" type="int"/>
     </Schema>
+    <Schema id="PHG_SE-04.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+      <SimpleField name="dun" type="string"/>
+      <SimpleField name="code_dun" type="string"/>
+      <SimpleField name="voters_total" type="int"/>
+    </Schema>
     <Folder>
       <name>PHG_SE_04</name>
       <Placemark id="PHG_SE_04.1">

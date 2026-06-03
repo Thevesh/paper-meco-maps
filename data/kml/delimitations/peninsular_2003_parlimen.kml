@@ -36,6 +36,11 @@
       <SimpleField name="parlimen" type="string"/>
       <SimpleField name="code_parlimen" type="string"/>
     </Schema>
+    <Schema id="peninsular_2003_parlimen.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+    </Schema>
     <Document id="peninsular_2003_parlimen">
       <name>peninsular_2003_parlimen</name>
       <Placemark id="peninsular_2003_parlimen.1">

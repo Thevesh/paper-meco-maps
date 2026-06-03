@@ -36,6 +36,11 @@
       <SimpleField name="parlimen" type="string"/>
       <SimpleField name="code_parlimen" type="string"/>
     </Schema>
+    <Schema id="sabah_1974_parlimen.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+    </Schema>
     <Document id="sabah_1974_parlimen">
       <name>sabah_1974_parlimen</name>
       <Placemark id="sabah_1974_parlimen.1">

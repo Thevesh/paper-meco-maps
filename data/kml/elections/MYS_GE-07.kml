@@ -16,6 +16,11 @@
       <SimpleField name="parlimen" type="string"/>
       <SimpleField name="code_parlimen" type="string"/>
     </Schema>
+    <Schema id="MYS_GE-07.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+    </Schema>
     <Folder>
       <name>MYS_GE_07</name>
       <Placemark id="MYS_GE_07.1">

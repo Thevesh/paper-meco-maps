@@ -26,6 +26,11 @@
       <SimpleField name="parlimen" type="string"/>
       <SimpleField name="code_parlimen" type="string"/>
     </Schema>
+    <Schema id="sarawak_1987_parlimen.schema">
+      <SimpleField name="state" type="string"/>
+      <SimpleField name="parlimen" type="string"/>
+      <SimpleField name="code_parlimen" type="string"/>
+    </Schema>
     <Document id="sarawak_1987_parlimen">
       <name>sarawak_1987_parlimen</name>
       <Placemark id="sarawak_1987_parlimen.1">
